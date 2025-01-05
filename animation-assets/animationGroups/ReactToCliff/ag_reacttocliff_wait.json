@@ -1,19 +1,31 @@
 {
   "Animations": [
     {
-      "Name": "anim_observing_distance_area_01",
+      "Name": "anim_speedtap_wait_long",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"
     },
     {
-      "Name": "anim_observing_nearby_area_01",
+      "Name": "anim_speedtap_wait_medium",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"
     },
     {
-      "Name": "anim_observing_self_absorbed_01",
+      "Name": "anim_speedtap_wait_medium_02",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_speedtap_wait_medium_03",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_speedtap_wait_short",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"

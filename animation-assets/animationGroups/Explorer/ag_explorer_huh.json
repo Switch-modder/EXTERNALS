@@ -1,10 +1,67 @@
 {
   "Animations": [
     {
-      "Name": "anim_explorer_huh_close_01",
+      "Name": "anim_explorer_huh_01",
       "Weight": 1.0,
       "CooldownTime_Sec": 3.0,
-      "Mood": "Default"
+      "Mood": "Default",
+      "UseHeadAngle": true,
+      "HeadAngleMin_Deg": -5.0,
+      "HeadAngleMax_Deg": 5.0
+    },
+    {
+      "Name": "anim_explorer_huh_01_head_angle_-20",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 3.0,
+      "Mood": "Default",
+      "UseHeadAngle": true,
+      "HeadAngleMin_Deg": -25.0,
+      "HeadAngleMax_Deg": -15.0
+    },
+    {
+      "Name": "anim_explorer_huh_01_head_angle_-10",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 3.0,
+      "Mood": "Default",
+      "UseHeadAngle": true,
+      "HeadAngleMin_Deg": -15.0,
+      "HeadAngleMax_Deg": -5.0
+    },
+    {
+      "Name": "anim_explorer_huh_01_head_angle_10",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 3.0,
+      "Mood": "Default",
+      "UseHeadAngle": true,
+      "HeadAngleMin_Deg": 5.0,
+      "HeadAngleMax_Deg": 15.0
+    },
+    {
+      "Name": "anim_explorer_huh_01_head_angle_20",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 3.0,
+      "Mood": "Default",
+      "UseHeadAngle": true,
+      "HeadAngleMin_Deg": 15.0,
+      "HeadAngleMax_Deg": 25.0
+    },
+    {
+      "Name": "anim_explorer_huh_01_head_angle_30",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 3.0,
+      "Mood": "Default",
+      "UseHeadAngle": true,
+      "HeadAngleMin_Deg": 25.0,
+      "HeadAngleMax_Deg": 35.0
+    },
+    {
+      "Name": "anim_explorer_huh_01_head_angle_40",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 3.0,
+      "Mood": "Default",
+      "UseHeadAngle": true,
+      "HeadAngleMin_Deg": 35.0,
+      "HeadAngleMax_Deg": 45.0
     }
   ]
 }

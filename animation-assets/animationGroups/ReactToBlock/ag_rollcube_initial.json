@@ -10,7 +10,7 @@
       "HeadAngleMax_Deg": -10.0
     },
     {
-      "Name": "anim_reacttoblock_react_01",
+      "Name": "anim_reacttoblock_react_01_0",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default",

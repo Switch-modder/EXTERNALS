@@ -1,13 +1,19 @@
 {
   "Animations": [
     {
-      "Name": "anim_keepaway_stopshort_01",
+      "Name": "anim_keepaway_fakeout_03",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"
     },
     {
-      "Name": "anim_keepaway_stopshort_02",
+      "Name": "anim_keepaway_fakeout_04",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_keepaway_fakeout_05",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"

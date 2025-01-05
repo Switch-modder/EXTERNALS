@@ -1,7 +1,7 @@
 {
   "Animations": [
     {
-      "Name": "anim_keepaway_pounce_mousetrap_04",
+      "Name": "anim_keepaway_pounce_04",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"
