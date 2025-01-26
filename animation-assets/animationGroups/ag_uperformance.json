@@ -17,6 +17,24 @@
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"
+    },
+    {
+      "Name": "anim_cozmosings_80_song_01",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_cozmosings_120_song_01",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_cozmosings_100_song_01",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
     }
   ]
 }

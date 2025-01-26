@@ -4834,5 +4834,33 @@
   {
     "name": "anim_reacttocliff_stuckonedge_alert_left_01",
     "length_ms": 2970
+  },
+  {
+    "name": "anim_cozmosings_120_song_01",
+    "length_ms": 8349
+  },
+  {
+    "name": "anim_cozmosings_100_song_01",
+    "length_ms": 9504
+  },
+  {
+    "name": "anim_cozmosings_80_song_01",
+    "length_ms": 11880
+  },
+  {
+    "name": "anim_cozmosings_getin_01",
+    "length_ms": 7788
+  },
+  {
+    "name": "anim_cozmosings_getin_02",
+    "length_ms": 5511
+  },
+  {
+    "name": "anim_cozmosings_getin_03",
+    "length_ms": 4752
+  },
+  {
+    "name": "anim_cozmosings_getout_01",
+    "length_ms": 1782
   }
 ]
