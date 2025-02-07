@@ -1585,7 +1585,7 @@
   },
   {
     "name": "anim_vc_reaction_nofaceheardyou_01",
-    "length_ms": 9504
+    "length_ms": 9372
   },
   {
     "name": "anim_rtsound_oncharger_observe_120left_01",
@@ -4209,7 +4209,7 @@
   },
   {
     "name": "anim_vc_listening_01",
-    "length_ms": 462
+    "length_ms": 6600
   },
   {
     "name": "anim_vc_laser_lookdown_01",
