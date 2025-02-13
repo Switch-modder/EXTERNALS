@@ -17,6 +17,12 @@
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "LowStim"
+    },
+    {
+      "Name": "anim_chargerdocking_comeoff_binaryeyes_01",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
     }
   ]
 }
