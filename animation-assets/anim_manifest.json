@@ -4862,5 +4862,9 @@
   {
     "name": "anim_cozmosings_getout_01",
     "length_ms": 1782
+  },
+  {
+    "name": "vig_ah_shot_7_b",
+    "length_ms": 16797
   }
 ]
