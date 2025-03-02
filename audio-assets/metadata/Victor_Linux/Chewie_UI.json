@@ -1,0 +1,25 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Victor_Linux",
+  "BasePlatform": "Linux",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "128",
+  "RootPaths": {
+   "ProjectRoot": "C:\\BuildAgent\\work\\ca416fb87b732fe7\\AnkiGithub\\victor-wwise\\VictorAudio\\",
+   "SourceFilesRoot": "C:\\BuildAgent\\work\\ca416fb87b732fe7\\AnkiGithub\\victor-wwise\\VictorAudio\\.cache\\Victor_Linux\\",
+   "SoundBanksRoot": "C:\\BuildAgent\\work\\ca416fb87b732fe7\\AnkiGithub\\victor-wwise\\VictorAudio\\GeneratedSoundBanks\\Victor_Linux\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\BuildAgent\\work\\ca416fb87b732fe7\\AnkiGithub\\victor-wwise\\VictorAudio\\GeneratedSoundBanks\\Victor_Linux"
+  },
+  "SoundBanks": [
+   {
+    "Id": "2872058299",
+    "GUID": "{1AA3DBF5-0077-4918-ABCE-11C63522797C}",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Chewie_Banks\\Chewie_UI",
+    "ShortName": "Chewie_UI",
+    "Path": "Chewie_UI.bnk"
+   }
+  ]
+ }
+}

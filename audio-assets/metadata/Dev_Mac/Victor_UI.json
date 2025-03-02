@@ -1,0 +1,25 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Dev_Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "128",
+  "RootPaths": {
+   "ProjectRoot": "C:\\BuildAgent\\work\\ca416fb87b732fe7\\AnkiGithub\\victor-wwise\\VictorAudio\\",
+   "SourceFilesRoot": "C:\\BuildAgent\\work\\ca416fb87b732fe7\\AnkiGithub\\victor-wwise\\VictorAudio\\.cache\\Dev_Mac\\",
+   "SoundBanksRoot": "C:\\BuildAgent\\work\\ca416fb87b732fe7\\AnkiGithub\\victor-wwise\\VictorAudio\\GeneratedSoundBanks\\Dev_Mac\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\BuildAgent\\work\\ca416fb87b732fe7\\AnkiGithub\\victor-wwise\\VictorAudio\\GeneratedSoundBanks\\Dev_Mac"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1643138457",
+    "GUID": "{6E76ECFD-E1BC-4618-90FA-C2D287EAD097}",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Victor_Banks\\Victor_UI",
+    "ShortName": "Victor_UI",
+    "Path": "Victor_UI.bnk"
+   }
+  ]
+ }
+}

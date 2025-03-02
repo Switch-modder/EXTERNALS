@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Dev_Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="128">
+	<RootPaths>
+		<ProjectRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\</ProjectRoot>
+		<SourceFilesRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\.cache\Dev_Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\GeneratedSoundBanks\Dev_Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\GeneratedSoundBanks\Dev_Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="804253094" GUID="{24A02CCE-A893-4943-B853-229AF7E9773E}" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Chewie_Banks\Chewie_Dev</ObjectPath>
+			<ShortName>Chewie_Dev</ShortName>
+			<Path>Chewie_Dev.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

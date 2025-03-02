@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Victor_Linux" BasePlatform="Linux" SchemaVersion="11" SoundbankVersion="128">
+	<RootPaths>
+		<ProjectRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\</ProjectRoot>
+		<SourceFilesRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\.cache\Victor_Linux\</SourceFilesRoot>
+		<SoundBanksRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\GeneratedSoundBanks\Victor_Linux\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\GeneratedSoundBanks\Victor_Linux</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="1355168291" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

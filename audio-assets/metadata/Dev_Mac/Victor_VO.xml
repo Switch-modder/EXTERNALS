@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Dev_Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="128">
+	<RootPaths>
+		<ProjectRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\</ProjectRoot>
+		<SourceFilesRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\.cache\Dev_Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\GeneratedSoundBanks\Dev_Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\GeneratedSoundBanks\Dev_Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="1693471430" GUID="{9CDF7440-AEB9-4FC0-ACC0-8EBA71966AF3}" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Victor_Banks\Victor_VO</ObjectPath>
+			<ShortName>Victor_VO</ShortName>
+			<Path>Victor_VO.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3168753800" Name="Play__Robot_Vic__External_Voice_Message" ObjectPath="\Events\Victor\Robot_Vic_Vo\Robot_Vic_Vo__External\Play__Robot_Vic__External_Voice_Message" GUID="{2395C973-4D89-452C-83BB-4E46558F31D3}" DurationType="Unknown"/>
+				<Event Id="2774572774" Name="Play__Robot_Vic__External_Voice_Text" ObjectPath="\Events\Victor\Robot_Vic_Vo\Robot_Vic_Vo__External\Play__Robot_Vic__External_Voice_Text" GUID="{90BAF5D1-0EBF-41F6-9B65-7A4AE35E977C}" DurationType="Unknown"/>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

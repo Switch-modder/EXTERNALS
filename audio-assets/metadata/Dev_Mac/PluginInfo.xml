@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginInfo Project="VictorAudio" Platform="Dev_Mac" BasePlatform="Mac">
+	<Plugins>
+		<Plugin Name="Krotos Vocoder" ID="2756819" DLL="KrotosVocoder"/>
+		<Plugin Name="Wwise Sine" ID="6553602" DLL="AkSineTone"/>
+		<Plugin Name="Wwise Silence" ID="6619138" DLL="AkSilenceGenerator"/>
+		<Plugin Name="Wwise Tone Generator" ID="6684674" DLL="AkToneGen"/>
+		<Plugin Name="McDSP ML1" ID="6754307" DLL="McDSP"/>
+		<Plugin Name="Wwise Parametric EQ" ID="6881283" DLL="AkParametricEQ"/>
+		<Plugin Name="Wwise Compressor" ID="7077891" DLL="AkCompressor"/>
+		<Plugin Name="Wwise Peak Limiter" ID="7208963" DLL="AkPeakLimiter"/>
+		<Plugin Name="Anki Streaming Wave Portal" ID="7213762" DLL="StreamingWavePortal"/>
+		<Plugin Name="Wwise Meter" ID="8454147" DLL="AkSoundEngineDLL"/>
+		<Plugin Name="Wwise Gain" ID="9109507" DLL="AkGain"/>
+		<Plugin Name="System" ID="11403271" DLL="DefaultSink"/>
+		<Plugin Name="No Output" ID="11862023" DLL="DefaultSink"/>
+	</Plugins>
+</PluginInfo>

@@ -1,0 +1,157 @@
+Switch Group	ID	Name			Wwise Object Path	Notes
+	358594767	Robot_Vic_Head_Direction			\Victor\Vic_Robot_Sfx\Head_and_Lift_Switches\Robot_Vic_Head_Direction	
+	724346585	Robot_Vic_Tread_Speed			\Victor\Vic_Robot_Sfx\Tread_Switches\Robot_Vic_Tread_Speed	
+	1706342803	Robot_Vic_Scrn_Procedural_Shift_Length			\Victor\Vic_Robot_Sfx\Vic_Robot_Scrn_Procedural_Shift_Length\Robot_Vic_Scrn_Procedural_Shift_Length	
+	2087220263	Robot_Vic_Stim_Switch			\Victor\Vic_Robot_Sfx\Vic_Robot_Stimulation_Switch\Robot_Vic_Stim_Switch	
+	2717392740	Robot_Vic_Stim_Switch_Old_Reference_Only			\Victor\Vic_Robot_Sfx\Vic_Robot_Stimulation_Switch\Robot_Vic_Stim_Switch_Old_Reference_Only	
+	3690255634	Robot_Vic_Lift_Direction			\Victor\Vic_Robot_Sfx\Head_and_Lift_Switches\Robot_Vic_Lift_Direction	
+	4283612440	Robot_Vic_Tread_Drive			\Victor\Vic_Robot_Sfx\Tread_Switches\Robot_Vic_Tread_Drive	
+
+Switch	ID	Name	Switch Group			Notes
+	123512153	Robot_Vic_Head_Direction_Up	Robot_Vic_Head_Direction			
+	3234804922	Robot_Vic_Head_Direction_Down	Robot_Vic_Head_Direction			
+	1541107887	Robot_Vic_Tread_Forward	Robot_Vic_Tread_Speed			
+	3258446947	Robot_Vic_Tread_Backward	Robot_Vic_Tread_Speed			
+	3156794696	Shift_Long	Robot_Vic_Scrn_Procedural_Shift_Length			
+	3265274760	Shift_Short	Robot_Vic_Scrn_Procedural_Shift_Length			
+	446181665	Stim_04	Robot_Vic_Stim_Switch			
+	446181668	Stim_01	Robot_Vic_Stim_Switch			
+	446181670	Stim_03	Robot_Vic_Stim_Switch			
+	446181671	Stim_02	Robot_Vic_Stim_Switch			
+	446181665	Stim_04	Robot_Vic_Stim_Switch_Old_Reference_Only			
+	446181668	Stim_01	Robot_Vic_Stim_Switch_Old_Reference_Only			
+	446181670	Stim_03	Robot_Vic_Stim_Switch_Old_Reference_Only			
+	446181671	Stim_02	Robot_Vic_Stim_Switch_Old_Reference_Only			
+	807633034	Robot_Vic_Lift_Direction_Up	Robot_Vic_Lift_Direction			
+	3238791869	Robot_Vic_Lift_Direction_Down	Robot_Vic_Lift_Direction			
+	2961118536	Robot_Vic_Tread_Spin	Robot_Vic_Tread_Drive			
+	4283612440	Robot_Vic_Tread_Drive	Robot_Vic_Tread_Drive			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	475135532	Robot_Vic_External_Processing			\Victor\Vic_Robot_External\Robot_Vic_External_Processing	
+	1633231277	Robot_Vic_Low_Power_Mode			\Victor\Vic_Robot_System\Robot_Vic_Low_Power_Mode	
+	1812603720	Robot_Alexa_Locale			\Alexa\Robot_Alexa_Locale	
+	1822792682	Robot_Vic_System_Tests			\Victor\Vic_Robot_System\Robot_Vic_System_Tests	
+	2984487667	Robot_Vic_External_Language			\Victor\Vic_Robot_External\Robot_Vic_External_Language	
+	3128647864	mood			\Victor\Vic_Robot_Sfx_States\mood	
+	3279659965	Robot_Vic_Volume			\Victor\Vic_Robot_Volume\Robot_Vic_Volume	
+	3399985269	Robot_Vic_Petting_Level			\Victor\Vic_Robot_Sfx_States\Robot_Vic_Petting_Level	
+	3765614597	Robot_Vic_Quiet			\Victor\Vic_Robot_Sfx_States\Robot_Vic_Quiet	
+	3929179650	Robot_Vic_Vc			\Victor\Vic_Robot_Sfx_States\Robot_Vic_Vc	
+
+State	ID	Name	State Group			Notes
+	0	None	Robot_Vic_External_Processing			
+	203897895	Robot_Vic_External_Unit_Test_Mock	Robot_Vic_External_Processing			
+	1575276615	Robot_Vic_External_Processed	Robot_Vic_External_Processing			
+	3289079812	Robot_Vic_External_Unprocessed	Robot_Vic_External_Processing			
+	0	None	Robot_Vic_Low_Power_Mode			
+	1712112425	Low_Power_Mode_On	Robot_Vic_Low_Power_Mode			
+	3340184725	Low_Power_Mode_Off	Robot_Vic_Low_Power_Mode			
+	0	None	Robot_Alexa_Locale			
+	1855682766	En_De	Robot_Alexa_Locale			
+	1889237923	En_Fr	Robot_Alexa_Locale			
+	1906015505	En_Au	Robot_Alexa_Locale			
+	2107346979	En_Uk	Robot_Alexa_Locale			
+	2107347003	En_Us	Robot_Alexa_Locale			
+	0	None	Robot_Vic_System_Tests			
+	522293050	Unit_Test	Robot_Vic_System_Tests			Turn on while running unit test to void hitting run time errors. For example Text to Speech
+	2777662008	App_Run	Robot_Vic_System_Tests			This is the default state for when the app is running under normal circumstances
+	0	None	Robot_Vic_External_Language			
+	2008704848	japanese	Robot_Vic_External_Language			
+	3133094709	french	Robot_Vic_External_Language			
+	3383237639	english	Robot_Vic_External_Language			
+	4290373403	german	Robot_Vic_External_Language			
+	0	None	mood			
+	443572635	sad	mood			
+	620622945	curious	mood			
+	670611050	neutral	mood			
+	1206605712	angry	mood			
+	1427264549	happy	mood			
+	2662801688	surprised	mood			
+	0	None	Robot_Vic_Volume			
+	545371365	Low	Robot_Vic_Volume			
+	1216798262	MediumLow	Robot_Vic_Volume			
+	2849147824	Medium	Robot_Vic_Volume			
+	2974103762	Mute	Robot_Vic_Volume			
+	3176515060	MediumHigh	Robot_Vic_Volume			
+	3550808449	High	Robot_Vic_Volume			
+	0	None	Robot_Vic_Petting_Level			
+	4289156881	Robot_Vic_Petting_Level_01	Robot_Vic_Petting_Level			
+	4289156882	Robot_Vic_Petting_Level_02	Robot_Vic_Petting_Level			
+	4289156883	Robot_Vic_Petting_Level_03	Robot_Vic_Petting_Level			
+	4289156884	Robot_Vic_Petting_Level_04	Robot_Vic_Petting_Level			
+	0	None	Robot_Vic_Quiet			
+	2503617831	Robot_Vic_Quiet_Off	Robot_Vic_Quiet			
+	3604654675	Robot_Vic_Quiet_On	Robot_Vic_Quiet			
+	0	None	Robot_Vic_Vc			
+	1551477384	Robot_Vic_Vc_Off	Robot_Vic_Vc			
+	3189356050	Robot_Vic_Vc_On	Robot_Vic_Vc			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	10612083	Mute	Robot_Vic_Volume	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses		
+	314067609	Robot_Vic_Vc_On	Robot_Vic_Vc	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses		
+	342955651	Robot_Vic_Quiet_On	Robot_Vic_Quiet	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses		
+	367278153	Robot_Vic_Vc_On	Robot_Vic_Vc	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses\Victor_Robot_SFX_Procedural		
+	446431235	Robot_Vic_Quiet_On	Robot_Vic_Quiet	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses\Victor_Robot_SFX_Procedural		
+	536642754	Robot_Vic_Quiet_On	Robot_Vic_Quiet	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses\Victor_Robot_SFX_Head_Lift		
+	552783263	High	Robot_Vic_Volume	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses		
+	842054643	MediumHigh	Robot_Vic_Volume	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses		
+	847124879	MediumLow	Robot_Vic_Volume	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses		
+	977026342	Medium	Robot_Vic_Volume	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses		
+	1045426916	Low	Robot_Vic_Volume	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses		
+	1066837796	Robot_Vic_Vc_On	Robot_Vic_Vc	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses\Victor_Robot_SFX_Head_Lift		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	651061178	Robot_Vic_Stimulation			\Victor\Victor Robot\Moods\Robot_Vic_Stimulation	
+	847280258	Dev_Squawk_Volume			\Victor\Victor Robot\Dev_Squawk_Volume	
+	1008373634	Robot_Vic_Volume_Animation			\Victor\Victor Robot\Robot_Vic_Front_End_Volume_RTPCs\Robot_Vic_Volume_Animation	
+	1036978186	Robot_Vic_Volume_Master			\Victor\Victor Robot\Robot_Vic_Front_End_Volume_RTPCs\Robot_Vic_Volume_Master	
+	3113529605	Robot_Vic_Purr_Level			\Victor\Victor Robot\Robot_Vic_Front_End_Volume_RTPCs\Robot_Vic_Purr_Level	
+	3289463297	Robot_Alexa_Volume_Master			\Alexa\Robot_Alexa_Volume_Master	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	121641772	Victor_Robot_SFX_Screen			\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses\Victor_Robot_SFX_Screen	
+	805203703	Master Secondary Bus			\Default Work Unit\Master Secondary Bus	
+	856163231	Victor_Robot_SFX_High_Priority			\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses\Victor_Robot_SFX_High_Priority	
+	948416556	Dev_General_Bus			\Default Work Unit\Master Audio Bus\Dev_Bus\Dev_General_Bus	
+	1159259262	Victor_Robot_SFX_Head_Lift			\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses\Victor_Robot_SFX_Head_Lift	
+	1729380023	Victor_Alexa_External_Notifications			\Default Work Unit\Master Audio Bus\Alexa_Robot\Victor_Alexa_External_Notifications	
+	1731724381	Victor_Robot_External			\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_External	
+	2008796406	Victor_Robot_SFX_High_Priority_Earcon			\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses\Victor_Robot_SFX_High_Priority\Victor_Robot_SFX_High_Priority_Earcon	
+	2178320975	Victor_Alexa_External_Media			\Default Work Unit\Master Audio Bus\Alexa_Robot\Victor_Alexa_External_Media	
+	2205252327	Victor_Robot_SFX_Stim			\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses\Victor_Robot_SFX_Stim	
+	2278572386	Victor_Robot_SFX_Character_Buses			\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses	
+	2403041217	Dev_Bus			\Default Work Unit\Master Audio Bus\Dev_Bus	
+	2885659541	Victor_Alexa_External_Voice			\Default Work Unit\Master Audio Bus\Alexa_Robot\Victor_Alexa_External_Voice	
+	2919936160	Victor_Alexa_SFX			\Default Work Unit\Master Audio Bus\Alexa_Robot\Victor_Alexa_SFX	
+	3005198374	Dev_Squawk_Bus			\Default Work Unit\Master Audio Bus\Dev_Bus\Dev_Squawk_Bus	
+	3090461196	Victor_Alexa_External_Alerts			\Default Work Unit\Master Audio Bus\Alexa_Robot\Victor_Alexa_External_Alerts	
+	3273300089	Victor_Robot_SFX_High_Priority_Petting			\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses\Victor_Robot_SFX_High_Priority\Victor_Robot_SFX_High_Priority_Petting	
+	3435543205	Victor_Robot			\Default Work Unit\Master Audio Bus\Victor_Robot	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3848958671	Alexa_Robot			\Default Work Unit\Master Audio Bus\Alexa_Robot	
+	4089178613	Victor_Robot_SFX_Procedural			\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses\Victor_Robot_SFX_Procedural	
+	4255101287	Victor_Robot_SFX_No_Stim			\Default Work Unit\Master Audio Bus\Victor_Robot\Victor_Robot_SFX_Character_Buses\Victor_Robot_SFX_No_Stim	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	2050577000	Victor_Robot_External_Boost_04			\Default Work Unit\Master Audio Bus\Victor_Robot_External_Boost_04	
+	2050577005	Victor_Robot_External_Boost_01			\Default Work Unit\Master Audio Bus\Victor_Robot_External_Boost_01	
+	2050577006	Victor_Robot_External_Boost_02			\Default Work Unit\Master Audio Bus\Victor_Robot_External_Boost_02	
+	2050577007	Victor_Robot_External_Boost_03			\Default Work Unit\Master Audio Bus\Victor_Robot_External_Boost_03	
+
+Effect plug-ins	ID	Name	Type				Notes
+	153359040	Wwise Meter (Custom)	Wwise Meter			
+	209543514	Wwise Meter (Custom)	Wwise Meter			
+	358174292	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
+	471846233	McDSP ML1 (Custom)	McDSP ML1			
+	652729276	Wwise Meter (Custom)	Wwise Meter			
+	696610931	Wwise Meter (Custom)	Wwise Meter			
+	857894739	Wwise Meter (Custom)	Wwise Meter			
+	1884128764	Robot_Vic_Master_Limiter	McDSP ML1			
+	2726018637	Victor_Meter_Bus_Sfx	Wwise Meter			
+	3333560874	Robot_Vic_Master_EQ	Wwise Parametric EQ			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

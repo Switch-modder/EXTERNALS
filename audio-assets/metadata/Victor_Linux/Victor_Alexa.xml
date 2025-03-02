@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Victor_Linux" BasePlatform="Linux" SchemaVersion="11" SoundbankVersion="128">
+	<RootPaths>
+		<ProjectRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\</ProjectRoot>
+		<SourceFilesRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\.cache\Victor_Linux\</SourceFilesRoot>
+		<SoundBanksRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\GeneratedSoundBanks\Victor_Linux\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\GeneratedSoundBanks\Victor_Linux</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="2239866820" GUID="{0B03C98A-0F1B-4C24-ABFE-94C5E37A4206}" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Victor_Banks\Victor_Alexa</ObjectPath>
+			<ShortName>Victor_Alexa</ShortName>
+			<Path>Victor_Alexa.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1721825381" Name="Play__Robot_Vic_Alexa__Avs_System_Prompt_Error_Cannot_Play_Song" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Standard\Play__Robot_Vic_Alexa__Avs_System_Prompt_Error_Cannot_Play_Song" GUID="{A842FEE1-058E-4286-9107-771271BE39D8}" DurationType="OneShot" DurationMin="1.821500" DurationMax="1.896145"/>
+				<Event Id="2347545436" Name="Play__Robot_Vic_Alexa__Avs_System_Prompt_Error_Offline_Lost_Connection" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Standard\Play__Robot_Vic_Alexa__Avs_System_Prompt_Error_Offline_Lost_Connection" GUID="{F03AA331-31CA-43FB-BB95-7B6C9BAB48E5}" DurationType="OneShot" DurationMin="2.473958" DurationMax="2.583750"/>
+				<Event Id="2960318302" Name="Play__Robot_Vic_Alexa__Avs_System_Prompt_Error_Offline_Not_Connected_To_Internet" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Standard\Play__Robot_Vic_Alexa__Avs_System_Prompt_Error_Offline_Not_Connected_To_Internet" GUID="{E9AEE511-ACC7-4EB8-A78C-038CEC0B743D}" DurationType="OneShot" DurationMin="5.377958" DurationMax="5.520000"/>
+				<Event Id="1248646962" Name="Play__Robot_Vic_Alexa__Avs_System_Prompt_Error_Offline_Not_Connected_To_Service_Else" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Standard\Play__Robot_Vic_Alexa__Avs_System_Prompt_Error_Offline_Not_Connected_To_Service_Else" GUID="{EC7F2D59-6CBE-41E9-B32C-415B0331AD7F}" DurationType="OneShot" DurationMin="4.417958" DurationMax="5.112000"/>
+				<Event Id="2172739081" Name="Play__Robot_Vic_Alexa__Avs_System_Prompt_Error_Offline_Not_Registered" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Standard\Play__Robot_Vic_Alexa__Avs_System_Prompt_Error_Offline_Not_Registered" GUID="{9A967C32-E46D-465B-B90F-40FE2217FD55}" DurationType="OneShot" DurationMin="4.225958" DurationMax="4.392000"/>
+				<Event Id="2688639192" Name="Play__Robot_Vic_Alexa__External_Alerts_Pause" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Plugin_Pause_Unpause\Play__Robot_Vic_Alexa__External_Alerts_Pause" GUID="{F0BE141B-670B-4365-BB52-3D6415F3D7FD}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1768349824" Name="Play__Robot_Vic_Alexa__External_Alerts_Play" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Play__Robot_Vic_Alexa__External_Alerts_Play" GUID="{0A92A260-07CB-43A3-9076-6D8EEFBD3DA6}" DurationType="Unknown"/>
+				<Event Id="2869910227" Name="Play__Robot_Vic_Alexa__External_Alerts_Resume" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Plugin_Pause_Unpause\Play__Robot_Vic_Alexa__External_Alerts_Resume" GUID="{F246B01B-6A31-4BB1-A40F-D2424CA3383F}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3478768817" Name="Play__Robot_Vic_Alexa__External_Media_Pause" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Plugin_Pause_Unpause\Play__Robot_Vic_Alexa__External_Media_Pause" GUID="{24C69C2C-AE83-4004-9156-4F7300FD8393}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="857094875" Name="Play__Robot_Vic_Alexa__External_Media_Play" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Play__Robot_Vic_Alexa__External_Media_Play" GUID="{B905CB18-26DA-4804-943A-BDF4F2C6465C}" DurationType="Unknown"/>
+				<Event Id="94934096" Name="Play__Robot_Vic_Alexa__External_Media_Resume" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Plugin_Pause_Unpause\Play__Robot_Vic_Alexa__External_Media_Resume" GUID="{E2B6D56B-4579-4CB2-93A7-BA00717E0A27}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2821049893" Name="Play__Robot_Vic_Alexa__External_Notifications_Pause" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Plugin_Pause_Unpause\Play__Robot_Vic_Alexa__External_Notifications_Pause" GUID="{6B24D351-DEE5-4294-943A-29E25DB820B3}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3096506751" Name="Play__Robot_Vic_Alexa__External_Notifications_Play" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Play__Robot_Vic_Alexa__External_Notifications_Play" GUID="{4402CDF5-B97F-41CB-9F9C-39B530974019}" DurationType="Unknown"/>
+				<Event Id="4266515628" Name="Play__Robot_Vic_Alexa__External_Notifications_Resume" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Plugin_Pause_Unpause\Play__Robot_Vic_Alexa__External_Notifications_Resume" GUID="{DABC3257-854D-41F0-A00A-F26C668FD080}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1040115983" Name="Play__Robot_Vic_Alexa__External_Voice_Pause" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Plugin_Pause_Unpause\Play__Robot_Vic_Alexa__External_Voice_Pause" GUID="{F3DE9B49-BC68-45E5-9735-0A3E085E77D2}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1439924065" Name="Play__Robot_Vic_Alexa__External_Voice_Play" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Play__Robot_Vic_Alexa__External_Voice_Play" GUID="{863704C5-191C-4555-858C-0A3EE4266CC9}" DurationType="Unknown"/>
+				<Event Id="3149295678" Name="Play__Robot_Vic_Alexa__External_Voice_Resume" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Plugin_Pause_Unpause\Play__Robot_Vic_Alexa__External_Voice_Resume" GUID="{2A63F4CE-0BEE-4AE7-B865-E25F76445B49}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1345769624" Name="Play__Robot_Vic_Alexa__Sfx_Sml_Alerts_Notification_01" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Sml\Play__Robot_Vic_Alexa__Sfx_Sml_Alerts_Notification_01" GUID="{58D51F80-5D0C-4554-A209-EA27085CEE7D}" DurationType="OneShot" DurationMin="1.428980" DurationMax="1.428980"/>
+				<Event Id="1345769626" Name="Play__Robot_Vic_Alexa__Sfx_Sml_Alerts_Notification_03" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Sml\Play__Robot_Vic_Alexa__Sfx_Sml_Alerts_Notification_03" GUID="{720A7328-4B62-487E-960A-1525708F53E4}" DurationType="OneShot" DurationMin="1.764989" DurationMax="1.764989"/>
+				<Event Id="1824844463" Name="Play__Robot_Vic_Alexa__Sfx_Sml_State_Bluetooth_Connected" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Sml\Play__Robot_Vic_Alexa__Sfx_Sml_State_Bluetooth_Connected" GUID="{A707744B-0C6C-4829-B040-B7427BCF5653}" DurationType="OneShot" DurationMin="1.356984" DurationMax="1.356984"/>
+				<Event Id="815245339" Name="Play__Robot_Vic_Alexa__Sfx_Sml_State_Bluetooth_Disconnected" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Sml\Play__Robot_Vic_Alexa__Sfx_Sml_State_Bluetooth_Disconnected" GUID="{32D0E874-7F85-48A5-A7B9-DD006E4E6D93}" DurationType="OneShot" DurationMin="1.260998" DurationMax="1.260998"/>
+				<Event Id="1150286419" Name="Play__Robot_Vic_Alexa__Sfx_Sml_State_Privacy_Mode_Off" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Sml\Play__Robot_Vic_Alexa__Sfx_Sml_State_Privacy_Mode_Off" GUID="{B74D719A-C7D4-47F6-8847-9F07D45E726C}" DurationType="OneShot" DurationMin="0.450023" DurationMax="0.450023"/>
+				<Event Id="854495775" Name="Play__Robot_Vic_Alexa__Sfx_Sml_State_Privacy_Mode_On" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Sml\Play__Robot_Vic_Alexa__Sfx_Sml_State_Privacy_Mode_On" GUID="{6452D28C-BDF4-4EB0-8B0C-A41DFE73D855}" DurationType="OneShot" DurationMin="0.350000" DurationMax="0.350000"/>
+				<Event Id="219117156" Name="Play__Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_01" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Sml\Play__Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_01" GUID="{299D981C-80A0-4C7C-9FCD-B8F7E0774565}" DurationType="OneShot" DurationMin="6.060998" DurationMax="6.060998"/>
+				<Event Id="1818400219" Name="Play__Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_01_Short" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Sml\Play__Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_01_Short" GUID="{11F1F427-0E27-41E7-BD99-D2339E11E6D1}" DurationType="OneShot" DurationMin="2.000476" DurationMax="2.000476"/>
+				<Event Id="219117159" Name="Play__Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_02" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Sml\Play__Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_02" GUID="{2AF616D1-FCFB-4D8E-B4DC-27ED347FC37F}" DurationType="OneShot" DurationMin="6.060998" DurationMax="6.060998"/>
+				<Event Id="2441768920" Name="Play__Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_02_Short" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Sml\Play__Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_02_Short" GUID="{DB3FFC97-9036-4210-A794-5CA29D0BF414}" DurationType="OneShot" DurationMin="2.000000" DurationMax="2.000000"/>
+				<Event Id="307430215" Name="Play__Robot_Vic_Alexa__Sfx_Sml_Ui_Endpointing" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Sml\Play__Robot_Vic_Alexa__Sfx_Sml_Ui_Endpointing" GUID="{1E23D501-16E7-4BCF-9F0F-EE2E0F7145A8}" DurationType="OneShot" DurationMin="0.700000" DurationMax="0.700000"/>
+				<Event Id="2725306379" Name="Play__Robot_Vic_Alexa__Sfx_Sml_Ui_Endpointing_Touch" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Sml\Play__Robot_Vic_Alexa__Sfx_Sml_Ui_Endpointing_Touch" GUID="{7817BDE5-E278-4B88-A5E1-1E4725AC73C8}" DurationType="OneShot" DurationMin="0.700000" DurationMax="0.700000"/>
+				<Event Id="1370162399" Name="Play__Robot_Vic_Alexa__Sfx_Sml_Ui_Wakesound" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Sml\Play__Robot_Vic_Alexa__Sfx_Sml_Ui_Wakesound" GUID="{0EA377D0-A0E5-425A-8397-4D7427B2C663}" DurationType="OneShot" DurationMin="0.471950" DurationMax="0.471950"/>
+				<Event Id="1028223059" Name="Play__Robot_Vic_Alexa__Sfx_Sml_Ui_Wakesound_Touch" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Sml\Play__Robot_Vic_Alexa__Sfx_Sml_Ui_Wakesound_Touch" GUID="{9DA23A0C-646C-4778-A565-99ACF4B0FC4F}" DurationType="OneShot" DurationMin="0.471950" DurationMax="0.471950"/>
+				<Event Id="4035154116" Name="Play__Robot_Vic_Alexa__Sfx_Sml_Utility_500ms_Blank" ObjectPath="\Events\Victor\Robot_Vic_Alexa\Robot_Vic_Alexa__Sfx\Robot_Vic_Alexa__Sfx_Sml\Play__Robot_Vic_Alexa__Sfx_Sml_Utility_500ms_Blank" GUID="{F8EBB6AC-64AB-4A4E-A771-A3C32D3ED38E}" DurationType="OneShot" DurationMin="0.500000" DurationMax="0.500000"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="40446947" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_Alerts_Notification_03.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_Alerts_Notification_03_45A4862A.wem</Path>
+				</File>
+				<File Id="191172541" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_02_Short.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_02_Short_18FE9C92.wem</Path>
+				</File>
+				<File Id="237790303" Language="SFX">
+					<ShortName>en_us_avs_system_prompt_error_offline_lost_connection.wav</ShortName>
+					<Path>SFX\en_us_avs_system_prompt_error_offline_lost_connection_E107B17A.wem</Path>
+				</File>
+				<File Id="247820993" Language="SFX">
+					<ShortName>En_Uk_Avs_System_Prompt_Error_Cannot_Play_Song.wav</ShortName>
+					<Path>SFX\En_Uk_Avs_System_Prompt_Error_Cannot_Play_Song_18FE9C92.wem</Path>
+				</File>
+				<File Id="268033897" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_State_Privacy_Mode_On.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_State_Privacy_Mode_On_18FE9C92.wem</Path>
+				</File>
+				<File Id="291133127" Language="SFX">
+					<ShortName>En_Uk_Avs_System_Prompt_Error_Offline_Not_Connected_To_Service_Else.wav</ShortName>
+					<Path>SFX\En_Uk_Avs_System_Prompt_Error_Offline_Not_Connected_To_Service_Else_18FE9C92.wem</Path>
+				</File>
+				<File Id="321168154" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_Ui_Endpointing_Touch.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_Ui_Endpointing_Touch_18FE9C92.wem</Path>
+				</File>
+				<File Id="354457250" Language="SFX">
+					<ShortName>En_Us_Avs_System_Prompt_Error_Cannot_Play_Song.wav</ShortName>
+					<Path>SFX\En_Us_Avs_System_Prompt_Error_Cannot_Play_Song_18FE9C92.wem</Path>
+				</File>
+				<File Id="363871174" Language="SFX">
+					<ShortName>En_Au_Avs_System_Prompt_Error_Cannot_Play_Song.wav</ShortName>
+					<Path>SFX\En_Au_Avs_System_Prompt_Error_Cannot_Play_Song_18FE9C92.wem</Path>
+				</File>
+				<File Id="384248499" Language="SFX">
+					<ShortName>en_us_avs_system_prompt_error_offline_not_registered.wav</ShortName>
+					<Path>SFX\en_us_avs_system_prompt_error_offline_not_registered_18FE9C92.wem</Path>
+				</File>
+				<File Id="390975124" Language="SFX">
+					<ShortName>En_Au_Avs_System_Prompt_Error_Offline_Not_Connected_To_Internet.wav</ShortName>
+					<Path>SFX\En_Au_Avs_System_Prompt_Error_Offline_Not_Connected_To_Internet_18FE9C92.wem</Path>
+				</File>
+				<File Id="397869776" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_State_Bluetooth_Disconnected.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_State_Bluetooth_Disconnected_18FE9C92.wem</Path>
+				</File>
+				<File Id="462646033" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_01_Short.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_01_Short_18FE9C92.wem</Path>
+				</File>
+				<File Id="471992505" Language="SFX">
+					<ShortName>En_Au_Avs_System_Prompt_Error_Offline_Not_Registered.wav</ShortName>
+					<Path>SFX\En_Au_Avs_System_Prompt_Error_Offline_Not_Registered_18FE9C92.wem</Path>
+				</File>
+				<File Id="484853542" Language="SFX">
+					<ShortName>En_Au_Avs_System_Prompt_Error_Offline_Lost_Connection.wav</ShortName>
+					<Path>SFX\En_Au_Avs_System_Prompt_Error_Offline_Lost_Connection_39577E40.wem</Path>
+				</File>
+				<File Id="536768976" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_Ui_Wakesound_Touch.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_Ui_Wakesound_Touch_18FE9C92.wem</Path>
+				</File>
+				<File Id="552855875" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_Utility_500ms_Blank.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_Utility_500ms_Blank_18FE9C92.wem</Path>
+				</File>
+				<File Id="557810698" Language="SFX">
+					<ShortName>en_us_avs_system_prompt_error_offline_not_connected_to_internet.wav</ShortName>
+					<Path>SFX\en_us_avs_system_prompt_error_offline_not_connected_to_internet_18FE9C92.wem</Path>
+				</File>
+				<File Id="672491669" Language="SFX">
+					<ShortName>En_Uk_Avs_System_Prompt_Error_Offline_Not_Registered.wav</ShortName>
+					<Path>SFX\En_Uk_Avs_System_Prompt_Error_Offline_Not_Registered_18FE9C92.wem</Path>
+				</File>
+				<File Id="693349085" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_Ui_Wakesound.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_Ui_Wakesound_18FE9C92.wem</Path>
+				</File>
+				<File Id="771240503" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_State_Bluetooth_Connected.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_State_Bluetooth_Connected_18FE9C92.wem</Path>
+				</File>
+				<File Id="798725762" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_Ui_Endpointing.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_Ui_Endpointing_18FE9C92.wem</Path>
+				</File>
+				<File Id="804950849" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_01.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_01_18FE9C92.wem</Path>
+				</File>
+				<File Id="815558874" Language="SFX">
+					<ShortName>En_Uk_Avs_System_Prompt_Error_Offline_Not_Connected_To_Internet.wav</ShortName>
+					<Path>SFX\En_Uk_Avs_System_Prompt_Error_Offline_Not_Connected_To_Internet_18FE9C92.wem</Path>
+				</File>
+				<File Id="885518248" Language="SFX">
+					<ShortName>En_Au_Avs_System_Prompt_Error_Offline_Not_Connected_To_Service_Else.wav</ShortName>
+					<Path>SFX\En_Au_Avs_System_Prompt_Error_Offline_Not_Connected_To_Service_Else_18FE9C92.wem</Path>
+				</File>
+				<File Id="921668592" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_Alerts_Notification_01.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_Alerts_Notification_01_18FE9C92.wem</Path>
+				</File>
+				<File Id="967572836" Language="SFX">
+					<ShortName>En_Uk_Avs_System_Prompt_Error_Offline_Lost_Connection.wav</ShortName>
+					<Path>SFX\En_Uk_Avs_System_Prompt_Error_Offline_Lost_Connection_7ACD883A.wem</Path>
+				</File>
+				<File Id="973934898" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_02.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_02_18FE9C92.wem</Path>
+				</File>
+				<File Id="1049288816" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_State_Privacy_Mode_Off.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_State_Privacy_Mode_Off_18FE9C92.wem</Path>
+				</File>
+				<File Id="1067902202" Language="SFX">
+					<ShortName>en_us_avs_system_prompt_error_offline_not_connected_to_service_else.wav</ShortName>
+					<Path>SFX\en_us_avs_system_prompt_error_offline_not_connected_to_service_else_18FE9C92.wem</Path>
+				</File>
+			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="40446947" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_Alerts_Notification_03.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_Alerts_Notification_03_45A4862A.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="191172541" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_02_Short.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_02_Short_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="237790303" Language="SFX">
+					<ShortName>en_us_avs_system_prompt_error_offline_lost_connection.wav</ShortName>
+					<Path>SFX\en_us_avs_system_prompt_error_offline_lost_connection_E107B17A.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="247820993" Language="SFX">
+					<ShortName>En_Uk_Avs_System_Prompt_Error_Cannot_Play_Song.wav</ShortName>
+					<Path>SFX\En_Uk_Avs_System_Prompt_Error_Cannot_Play_Song_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="268033897" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_State_Privacy_Mode_On.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_State_Privacy_Mode_On_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="291133127" Language="SFX">
+					<ShortName>En_Uk_Avs_System_Prompt_Error_Offline_Not_Connected_To_Service_Else.wav</ShortName>
+					<Path>SFX\En_Uk_Avs_System_Prompt_Error_Offline_Not_Connected_To_Service_Else_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="321168154" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_Ui_Endpointing_Touch.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_Ui_Endpointing_Touch_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="354457250" Language="SFX">
+					<ShortName>En_Us_Avs_System_Prompt_Error_Cannot_Play_Song.wav</ShortName>
+					<Path>SFX\En_Us_Avs_System_Prompt_Error_Cannot_Play_Song_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="363871174" Language="SFX">
+					<ShortName>En_Au_Avs_System_Prompt_Error_Cannot_Play_Song.wav</ShortName>
+					<Path>SFX\En_Au_Avs_System_Prompt_Error_Cannot_Play_Song_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="384248499" Language="SFX">
+					<ShortName>en_us_avs_system_prompt_error_offline_not_registered.wav</ShortName>
+					<Path>SFX\en_us_avs_system_prompt_error_offline_not_registered_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="390975124" Language="SFX">
+					<ShortName>En_Au_Avs_System_Prompt_Error_Offline_Not_Connected_To_Internet.wav</ShortName>
+					<Path>SFX\En_Au_Avs_System_Prompt_Error_Offline_Not_Connected_To_Internet_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="397869776" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_State_Bluetooth_Disconnected.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_State_Bluetooth_Disconnected_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="462646033" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_01_Short.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_01_Short_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="471992505" Language="SFX">
+					<ShortName>En_Au_Avs_System_Prompt_Error_Offline_Not_Registered.wav</ShortName>
+					<Path>SFX\En_Au_Avs_System_Prompt_Error_Offline_Not_Registered_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="484853542" Language="SFX">
+					<ShortName>En_Au_Avs_System_Prompt_Error_Offline_Lost_Connection.wav</ShortName>
+					<Path>SFX\En_Au_Avs_System_Prompt_Error_Offline_Lost_Connection_39577E40.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="536768976" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_Ui_Wakesound_Touch.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_Ui_Wakesound_Touch_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="552855875" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_Utility_500ms_Blank.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_Utility_500ms_Blank_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="557810698" Language="SFX">
+					<ShortName>en_us_avs_system_prompt_error_offline_not_connected_to_internet.wav</ShortName>
+					<Path>SFX\en_us_avs_system_prompt_error_offline_not_connected_to_internet_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="672491669" Language="SFX">
+					<ShortName>En_Uk_Avs_System_Prompt_Error_Offline_Not_Registered.wav</ShortName>
+					<Path>SFX\En_Uk_Avs_System_Prompt_Error_Offline_Not_Registered_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="693349085" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_Ui_Wakesound.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_Ui_Wakesound_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="771240503" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_State_Bluetooth_Connected.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_State_Bluetooth_Connected_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="798725762" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_Ui_Endpointing.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_Ui_Endpointing_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="804950849" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_01.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_01_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="815558874" Language="SFX">
+					<ShortName>En_Uk_Avs_System_Prompt_Error_Offline_Not_Connected_To_Internet.wav</ShortName>
+					<Path>SFX\En_Uk_Avs_System_Prompt_Error_Offline_Not_Connected_To_Internet_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="885518248" Language="SFX">
+					<ShortName>En_Au_Avs_System_Prompt_Error_Offline_Not_Connected_To_Service_Else.wav</ShortName>
+					<Path>SFX\En_Au_Avs_System_Prompt_Error_Offline_Not_Connected_To_Service_Else_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="921668592" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_Alerts_Notification_01.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_Alerts_Notification_01_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="967572836" Language="SFX">
+					<ShortName>En_Uk_Avs_System_Prompt_Error_Offline_Lost_Connection.wav</ShortName>
+					<Path>SFX\En_Uk_Avs_System_Prompt_Error_Offline_Lost_Connection_7ACD883A.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="973934898" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_02.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_System_Alerts_Melodic_02_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="1049288816" Language="SFX">
+					<ShortName>Robot_Vic_Alexa__Sfx_Sml_State_Privacy_Mode_Off.wav</ShortName>
+					<Path>SFX\Robot_Vic_Alexa__Sfx_Sml_State_Privacy_Mode_Off_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="1067902202" Language="SFX">
+					<ShortName>en_us_avs_system_prompt_error_offline_not_connected_to_service_else.wav</ShortName>
+					<Path>SFX\en_us_avs_system_prompt_error_offline_not_connected_to_service_else_18FE9C92.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Dev_Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="128">
+	<RootPaths>
+		<ProjectRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\</ProjectRoot>
+		<SourceFilesRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\.cache\Dev_Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\GeneratedSoundBanks\Dev_Mac\English(US)\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\BuildAgent\work\ca416fb87b732fe7\AnkiGithub\victor-wwise\VictorAudio\GeneratedSoundBanks\Dev_Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3324335988" GUID="{282BB8D7-2781-43D8-B75E-99700F4269C6}" Language="English(US)">
+			<ObjectPath>\SoundBanks\Default Work Unit\Victor_Banks\Victor_Dev</ObjectPath>
+			<ShortName>Victor_Dev</ShortName>
+			<Path>English(US)\Victor_Dev.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3462246304" Name="Play__Dev_Device__External_Source" ObjectPath="\Events\Dev_Debug\Play__Dev_Device__External_Source" GUID="{B6721FE4-D7E9-4847-A056-00DED6EF248A}" DurationType="Unknown"/>
+				<Event Id="2415524415" Name="Play__Dev_Device__Tone_Generator" ObjectPath="\Events\Dev_Debug\Play__Dev_Device__Tone_Generator" GUID="{FDA749D4-EE9F-42B6-B4BA-8BB4BAD1A234}" DurationType="OneShot" DurationMin="0.600000" DurationMax="0.600000"/>
+				<Event Id="2839960576" Name="Play__Dev_Robot__Angry_Muttering" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__Angry_Muttering" GUID="{7F79C081-BE27-452F-B246-A3E6696BA6BB}" DurationType="OneShot" DurationMin="1.988104" DurationMax="3.121021"/>
+				<Event Id="2942381837" Name="Play__Dev_Robot__Curious_Muttering" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__Curious_Muttering" GUID="{B43961F4-8D66-4707-850B-600E6693460E}" DurationType="OneShot" DurationMin="1.007854" DurationMax="1.686761"/>
+				<Event Id="2539447680" Name="Play__Dev_Robot__External_Source" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__External_Source" GUID="{8F2FCA7D-5D5A-48B6-B038-AD5A78A8743D}" DurationType="Unknown"/>
+				<Event Id="4128432838" Name="Play__Dev_Robot__Freq_Sweep_20sec" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__Freq_Sweep_20sec" GUID="{12EE6F84-2D91-44D0-BC42-9085680EB9F2}" DurationType="OneShot" DurationMin="20.000000" DurationMax="20.000000"/>
+				<Event Id="253187573" Name="Play__Dev_Robot__Freq_Sweep_5sec" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__Freq_Sweep_5sec" GUID="{86A41A1F-2FA3-487C-9039-1E7290683D0A}" DurationType="OneShot" DurationMin="5.000000" DurationMax="5.000000"/>
+				<Event Id="1735763806" Name="Play__Dev_Robot__Fx_Test_Sequence" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__Fx_Test_Sequence" GUID="{8B2C336A-E2EC-4013-8393-20594608260A}" DurationType="OneShot" DurationMin="24.493271" DurationMax="24.493271"/>
+				<Event Id="627442460" Name="Play__Dev_Robot__Mozart" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__Mozart" GUID="{07AFFE58-3FB9-4304-9053-BEF6089B5820}" DurationType="OneShot" DurationMin="35.356529" DurationMax="35.356529"/>
+				<Event Id="3980968688" Name="Play__Dev_Robot__Pink_1sec" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__Pink_1sec" GUID="{E10A5EE1-4DCF-4DF3-A721-72DAC30B0A17}" DurationType="OneShot" DurationMin="1.000000" DurationMax="1.000000"/>
+				<Event Id="988519260" Name="Play__Dev_Robot__Pink_5sec" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__Pink_5sec" GUID="{BC93862A-380C-4A65-A38F-95EF4A4110F3}" DurationType="OneShot" DurationMin="5.000000" DurationMax="5.000000"/>
+				<Event Id="2363892348" Name="Play__Dev_Robot__Playpen_Freq_Sweep" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__Playpen_Freq_Sweep" GUID="{B3300C1E-0D21-4EDF-9854-A1CCBECF2E7D}" DurationType="OneShot" DurationMin="5.000000" DurationMax="5.000000"/>
+				<Event Id="211516390" Name="Play__Dev_Robot__Tone_10_Frames_01" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__Tone_10_Frames_01" GUID="{B17B3D69-6AC7-4CBD-8833-BFEF33A5F604}" DurationType="OneShot" DurationMin="0.333000" DurationMax="0.333000"/>
+				<Event Id="1536061703" Name="Play__Dev_Robot__Tone_150_Frames_01" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__Tone_150_Frames_01" GUID="{969973B1-4F12-4337-8A95-AC8D1A68A8E7}" DurationType="OneShot" DurationMin="5.000000" DurationMax="5.000000"/>
+				<Event Id="3488492107" Name="Play__Dev_Robot__Tone_1760Hz_5sec" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__Tone_1760Hz_5sec" GUID="{7CCE865F-8054-4923-8A3A-D3C546F76101}" DurationType="OneShot" DurationMin="5.000000" DurationMax="5.000000"/>
+				<Event Id="4068444155" Name="Play__Dev_Robot__Tone_1k_1sec" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__Tone_1k_1sec" GUID="{7FFFCB80-854A-4D94-9F7D-3D82CDA31BA0}" DurationType="OneShot" DurationMin="1.000000" DurationMax="1.000000"/>
+				<Event Id="1034417959" Name="Play__Dev_Robot__Tone_1k_5sec" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__Tone_1k_5sec" GUID="{3C2C7FB7-CA06-44E7-9C9E-04F075E64B6B}" DurationType="OneShot" DurationMin="5.000000" DurationMax="5.000000"/>
+				<Event Id="2834616264" Name="Play__Dev_Robot__Tone_30_Frames_01" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__Tone_30_Frames_01" GUID="{090864C2-1C47-4972-AB11-01A2270A5782}" DurationType="OneShot" DurationMin="1.000000" DurationMax="1.000000"/>
+				<Event Id="1471825745" Name="Play__Dev_Robot__Tone_440Hz_5sec" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__Tone_440Hz_5sec" GUID="{7D193560-7210-4711-8D8D-D733A4B85775}" DurationType="OneShot" DurationMin="5.000000" DurationMax="5.000000"/>
+				<Event Id="4289674931" Name="Play__Dev_Robot__White_5sec" ObjectPath="\Events\Dev_Debug\Play__Dev_Robot__White_5sec" GUID="{9E4C5532-7E69-42A0-82E7-12538C895800}" DurationType="OneShot" DurationMin="5.000000" DurationMax="5.000000"/>
+				<Event Id="1550510811" Name="Play__Dev_Robot_Factory__Scan_Loop_Stop_Bell" ObjectPath="\Events\Dev_Debug_Factory\Play__Dev_Robot_Factory__Scan_Loop_Stop_Bell" GUID="{19CDF2BE-DC31-44AA-8E24-69CD9B22DF8E}" DurationType="OneShot" DurationMin="1.181415" DurationMax="1.181415"/>
+				<Event Id="392476676" Name="Play__Dev_Robot_Factory__Tone_1k_1sec" ObjectPath="\Events\Dev_Debug_Factory\Play__Dev_Robot_Factory__Tone_1k_1sec" GUID="{8B233AB7-FA33-4D11-BAEC-3ED8E794356E}" DurationType="OneShot" DurationMin="1.000000" DurationMax="1.000000"/>
+				<Event Id="3379703224" Name="Play__Dev_Robot_Factory__Tone_1k_5sec" ObjectPath="\Events\Dev_Debug_Factory\Play__Dev_Robot_Factory__Tone_1k_5sec" GUID="{BF0AF691-7F40-4280-A8C9-7C862D5F2A24}" DurationType="OneShot" DurationMin="5.000000" DurationMax="5.000000"/>
+				<Event Id="3912070771" Name="Play__Dev_Squawk__Blackjack_Lose" ObjectPath="\Events\Dev_Debug\Dev_Squawk_Testing\Play__Dev_Squawk__Blackjack_Lose" GUID="{C8920275-63C7-4BBE-9F99-0699E9828D86}" DurationType="OneShot" DurationMin="1.182354" DurationMax="1.182354"/>
+				<Event Id="4063827073" Name="Play__Dev_Squawk__Camera_Flash" ObjectPath="\Events\Dev_Debug\Dev_Squawk_Testing\Play__Dev_Squawk__Camera_Flash" GUID="{52711317-9883-444B-A0FD-1BAF2F4C5F0E}" DurationType="OneShot" DurationMin="0.657062" DurationMax="0.657062"/>
+				<Event Id="540775366" Name="Play__Dev_Squawk__Emote_Happy" ObjectPath="\Events\Dev_Debug\Dev_Squawk_Testing\Play__Dev_Squawk__Emote_Happy" GUID="{11715ABF-88D5-421B-86E6-CB8389D914E5}" DurationType="OneShot" DurationMin="0.534688" DurationMax="0.534688"/>
+				<Event Id="969212508" Name="Play__Dev_Squawk__Fist_Bump" ObjectPath="\Events\Dev_Debug\Dev_Squawk_Testing\Play__Dev_Squawk__Fist_Bump" GUID="{4BA9F8DF-46AB-4536-8F59-5DCCAC24E092}" DurationType="OneShot" DurationMin="1.448750" DurationMax="1.448750"/>
+				<Event Id="3780596321" Name="Play__Dev_Squawk__Head_Long_Curious" ObjectPath="\Events\Dev_Debug\Dev_Squawk_Testing\Play__Dev_Squawk__Head_Long_Curious" GUID="{6545F01B-6413-4285-A363-4697225BA5D0}" DurationType="OneShot" DurationMin="0.678062" DurationMax="0.678062"/>
+				<Event Id="2320289125" Name="Play__Dev_Squawk__Head_Short_Curious" ObjectPath="\Events\Dev_Debug\Dev_Squawk_Testing\Play__Dev_Squawk__Head_Short_Curious" GUID="{591322A1-C414-46EF-B42A-AC7F385BA481}" DurationType="OneShot" DurationMin="0.480000" DurationMax="0.480000"/>
+				<Event Id="2268001086" Name="Play__Dev_Squawk__No_Wifi" ObjectPath="\Events\Dev_Debug\Dev_Squawk_Testing\Play__Dev_Squawk__No_Wifi" GUID="{46F8B93B-C266-4CF3-97B0-122BF3D76F57}" DurationType="OneShot" DurationMin="1.882708" DurationMax="1.882708"/>
+				<Event Id="621662666" Name="Play__Dev_Squawk__Tread_Happy" ObjectPath="\Events\Dev_Debug\Dev_Squawk_Testing\Play__Dev_Squawk__Tread_Happy" GUID="{E232DC0C-DE38-45A3-85E4-2BFD0531F2B3}" DurationType="OneShot" DurationMin="0.649625" DurationMax="0.649625"/>
+				<Event Id="4211032222" Name="Play__Dev_Squawk__Wake_Word_On" ObjectPath="\Events\Dev_Debug\Dev_Squawk_Testing\Play__Dev_Squawk__Wake_Word_On" GUID="{CD7536D1-9C08-495E-8569-48059492B881}" DurationType="OneShot" DurationMin="0.749917" DurationMax="0.749917"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="3936921" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__No_Wifi_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__No_Wifi_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="20554946" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_16_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_16_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="25932565" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_02_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_02_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="31324215" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_11_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_11_WM_88E25118.wem</Path>
+				</File>
+				<File Id="55303634" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_15_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_15_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="71453838" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Head_Down_Short_Curious_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Head_Down_Short_Curious_01_WM_5645A33B.wem</Path>
+				</File>
+				<File Id="90765854" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_02_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_02_WM_61D3B6BC.wem</Path>
+				</File>
+				<File Id="99456398" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_17_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_17_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="100163230" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Camera_Flash_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Camera_Flash_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="101437231" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_08_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_08_WM_222FDB9B.wem</Path>
+				</File>
+				<File Id="131917627" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Blackjack_Lose_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Blackjack_Lose_WM_7202C80A.wem</Path>
+				</File>
+				<File Id="132695882" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__No_Wifi_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__No_Wifi_WM_5645A33B.wem</Path>
+				</File>
+				<File Id="178161769" Language="SFX">
+					<ShortName>Robot_Sfx__Scrn_Surprised_Long_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Sfx__Scrn_Surprised_Long_01_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="178193354" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Head_Down_Short_Curious_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Head_Down_Short_Curious_01_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="190098477" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Tread_Happy_Long_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Tread_Happy_Long_01_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="208274446" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Tread_Happy_Long_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Tread_Happy_Long_01_WM_5645A33B.wem</Path>
+				</File>
+				<File Id="216881581" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Emote_Happy_Short_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Emote_Happy_Short_01_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="221317702" Language="SFX">
+					<ShortName>Robot_Sfx__Scrn_Sad_Long_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Sfx__Scrn_Sad_Long_01_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="247762653" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Lift_High_Down_Long_Curious_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Lift_High_Down_Long_Curious_01_WM_5645A33B.wem</Path>
+				</File>
+				<File Id="302034868" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_13_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_13_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="307330369" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_07_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_07_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="340499647" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_05_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_05_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="373045139" Language="SFX">
+					<ShortName>Dev_Mozart.wav</ShortName>
+					<Path>SFX\Dev_Mozart_BC92AD9E.wem</Path>
+				</File>
+				<File Id="376113429" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Fist_Bump_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Fist_Bump_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="450506169" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Fist_Bump_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Fist_Bump_WM_5645A33B.wem</Path>
+				</File>
+				<File Id="451306028" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_10_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_10_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="482879846" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_06_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_06_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="530382434" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Blackjack_Lose_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Blackjack_Lose_WM_8C20A323.wem</Path>
+				</File>
+				<File Id="552072377" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_15_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_15_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="573230921" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_12_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_12_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="593753384" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Lift_High_Down_Long_Curious_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Lift_High_Down_Long_Curious_01_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="666950858" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_14_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_14_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="680145437" Language="SFX">
+					<ShortName>Robot_Sfx__Scrn_Angry_Long_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Sfx__Scrn_Angry_Long_01_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="685558094" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Camera_Flash_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Camera_Flash_WM_5645A33B.wem</Path>
+				</File>
+				<File Id="722722832" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_03_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_03_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="758246951" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Timer_Beep_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Timer_Beep_WM_5645A33B.wem</Path>
+				</File>
+				<File Id="785223634" Language="SFX">
+					<ShortName>Dev_Robot__Scan_Loop_Stop_Bell_WM.wav</ShortName>
+					<Path>SFX\Dev_Robot__Scan_Loop_Stop_Bell_WM_AA4D6F12.wem</Path>
+				</File>
+				<File Id="834582578" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Wake_Word_On_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Wake_Word_On_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="893695355" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Wake_Word_On_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Wake_Word_On_WM_5645A33B.wem</Path>
+				</File>
+				<File Id="908932215" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Timer_Beep_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Timer_Beep_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="912563543" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_09_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_09_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="943023007" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_04_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_04_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="947452876" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_05_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_05_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="967700349" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_19_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_19_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="997129844" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_07_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_07_WM_1EDA0A07.wem</Path>
+				</File>
+				<File Id="1038650406" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Emote_Happy_Short_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Emote_Happy_Short_01_WM_5645A33B.wem</Path>
+				</File>
+				<File Id="1049476053" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_01_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_01_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="1062491740" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_10_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_10_WM_BC92AD9E.wem</Path>
+				</File>
+				<File Id="1072794663" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_03_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_03_WM_BC92AD9E.wem</Path>
+				</File>
+			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="3936921" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__No_Wifi_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__No_Wifi_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>2046</PrefetchSize>
+				</File>
+				<File Id="20554946" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_16_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_16_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1949</PrefetchSize>
+				</File>
+				<File Id="25932565" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_02_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_02_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1975</PrefetchSize>
+				</File>
+				<File Id="31324215" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_11_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_11_WM_88E25118.wem</Path>
+					<PrefetchSize>2171</PrefetchSize>
+				</File>
+				<File Id="55303634" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_15_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_15_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1851</PrefetchSize>
+				</File>
+				<File Id="71453838" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Head_Down_Short_Curious_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Head_Down_Short_Curious_01_WM_5645A33B.wem</Path>
+					<PrefetchSize>1558</PrefetchSize>
+				</File>
+				<File Id="90765854" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_02_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_02_WM_61D3B6BC.wem</Path>
+					<PrefetchSize>2011</PrefetchSize>
+				</File>
+				<File Id="99456398" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_17_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_17_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1957</PrefetchSize>
+				</File>
+				<File Id="100163230" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Camera_Flash_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Camera_Flash_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1292</PrefetchSize>
+				</File>
+				<File Id="101437231" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_08_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_08_WM_222FDB9B.wem</Path>
+					<PrefetchSize>2246</PrefetchSize>
+				</File>
+				<File Id="131917627" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Blackjack_Lose_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Blackjack_Lose_WM_7202C80A.wem</Path>
+					<PrefetchSize>1127</PrefetchSize>
+				</File>
+				<File Id="132695882" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__No_Wifi_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__No_Wifi_WM_5645A33B.wem</Path>
+					<PrefetchSize>2066</PrefetchSize>
+				</File>
+				<File Id="178161769" Language="SFX">
+					<ShortName>Robot_Sfx__Scrn_Surprised_Long_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Sfx__Scrn_Surprised_Long_01_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>2909</PrefetchSize>
+				</File>
+				<File Id="178193354" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Head_Down_Short_Curious_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Head_Down_Short_Curious_01_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1096</PrefetchSize>
+				</File>
+				<File Id="190098477" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Tread_Happy_Long_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Tread_Happy_Long_01_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>2157</PrefetchSize>
+				</File>
+				<File Id="208274446" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Tread_Happy_Long_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Tread_Happy_Long_01_WM_5645A33B.wem</Path>
+					<PrefetchSize>2161</PrefetchSize>
+				</File>
+				<File Id="216881581" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Emote_Happy_Short_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Emote_Happy_Short_01_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>789</PrefetchSize>
+				</File>
+				<File Id="221317702" Language="SFX">
+					<ShortName>Robot_Sfx__Scrn_Sad_Long_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Sfx__Scrn_Sad_Long_01_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1731</PrefetchSize>
+				</File>
+				<File Id="247762653" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Lift_High_Down_Long_Curious_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Lift_High_Down_Long_Curious_01_WM_5645A33B.wem</Path>
+					<PrefetchSize>1298</PrefetchSize>
+				</File>
+				<File Id="302034868" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_13_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_13_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>2540</PrefetchSize>
+				</File>
+				<File Id="307330369" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_07_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_07_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1908</PrefetchSize>
+				</File>
+				<File Id="340499647" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_05_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_05_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1905</PrefetchSize>
+				</File>
+				<File Id="376113429" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Fist_Bump_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Fist_Bump_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1712</PrefetchSize>
+				</File>
+				<File Id="450506169" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Fist_Bump_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Fist_Bump_WM_5645A33B.wem</Path>
+					<PrefetchSize>1728</PrefetchSize>
+				</File>
+				<File Id="451306028" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_10_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_10_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>2122</PrefetchSize>
+				</File>
+				<File Id="482879846" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_06_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_06_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>2140</PrefetchSize>
+				</File>
+				<File Id="530382434" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Blackjack_Lose_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Blackjack_Lose_WM_8C20A323.wem</Path>
+					<PrefetchSize>1557</PrefetchSize>
+				</File>
+				<File Id="552072377" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_15_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_15_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1922</PrefetchSize>
+				</File>
+				<File Id="573230921" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_12_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_12_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1779</PrefetchSize>
+				</File>
+				<File Id="593753384" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Lift_High_Down_Long_Curious_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Lift_High_Down_Long_Curious_01_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1419</PrefetchSize>
+				</File>
+				<File Id="666950858" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_14_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_14_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1837</PrefetchSize>
+				</File>
+				<File Id="680145437" Language="SFX">
+					<ShortName>Robot_Sfx__Scrn_Angry_Long_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Sfx__Scrn_Angry_Long_01_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>2717</PrefetchSize>
+				</File>
+				<File Id="685558094" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Camera_Flash_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Camera_Flash_WM_5645A33B.wem</Path>
+					<PrefetchSize>1296</PrefetchSize>
+				</File>
+				<File Id="722722832" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_03_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_03_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1982</PrefetchSize>
+				</File>
+				<File Id="785223634" Language="SFX">
+					<ShortName>Dev_Robot__Scan_Loop_Stop_Bell_WM.wav</ShortName>
+					<Path>SFX\Dev_Robot__Scan_Loop_Stop_Bell_WM_AA4D6F12.wem</Path>
+					<PrefetchSize>9664</PrefetchSize>
+				</File>
+				<File Id="834582578" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Wake_Word_On_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Wake_Word_On_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1796</PrefetchSize>
+				</File>
+				<File Id="893695355" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Wake_Word_On_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Wake_Word_On_WM_5645A33B.wem</Path>
+					<PrefetchSize>1739</PrefetchSize>
+				</File>
+				<File Id="912563543" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_09_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_09_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>2122</PrefetchSize>
+				</File>
+				<File Id="943023007" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_04_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_04_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>2069</PrefetchSize>
+				</File>
+				<File Id="947452876" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_05_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_05_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1889</PrefetchSize>
+				</File>
+				<File Id="967700349" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_19_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_19_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1993</PrefetchSize>
+				</File>
+				<File Id="997129844" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_07_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_07_WM_1EDA0A07.wem</Path>
+					<PrefetchSize>2065</PrefetchSize>
+				</File>
+				<File Id="1038650406" Language="SFX">
+					<ShortName>Robot_Vic_Sfx__Emote_Happy_Short_01_WM.wav</ShortName>
+					<Path>SFX\Robot_Vic_Sfx__Emote_Happy_Short_01_WM_5645A33B.wem</Path>
+					<PrefetchSize>1236</PrefetchSize>
+				</File>
+				<File Id="1049476053" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_01_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_01_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1972</PrefetchSize>
+				</File>
+				<File Id="1062491740" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Curious_Mutter_10_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Curious_Mutter_10_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1864</PrefetchSize>
+				</File>
+				<File Id="1072794663" Language="English(US)">
+					<ShortName>Robot_Vo__Shared_Angry_Muttering_03_WM.wav</ShortName>
+					<Path>Voices\English(US)\Robot_Vo__Shared_Angry_Muttering_03_WM_BC92AD9E.wem</Path>
+					<PrefetchSize>1989</PrefetchSize>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

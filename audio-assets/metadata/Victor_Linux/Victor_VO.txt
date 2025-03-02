@@ -1,0 +1,42 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2774572774	Play__Robot_Vic__External_Voice_Text			\Victor\Robot_Vic_Vo\Robot_Vic_Vo__External\Play__Robot_Vic__External_Voice_Text	
+	3168753800	Play__Robot_Vic__External_Voice_Message			\Victor\Robot_Vic_Vo\Robot_Vic_Vo__External\Play__Robot_Vic__External_Voice_Message	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	475135532	Robot_Vic_External_Processing			\Victor\Vic_Robot_External\Robot_Vic_External_Processing	
+
+Switch	ID	Name	Switch Group			Notes
+	860658140	Unprocessed	Robot_Vic_External_Processing			
+	1906807385	Default_Processed	Robot_Vic_External_Processing			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3279659965	Robot_Vic_Volume			\Victor\Vic_Robot_Volume\Robot_Vic_Volume	
+
+State	ID	Name	State Group			Notes
+	0	None	Robot_Vic_Volume			
+	545371365	Low	Robot_Vic_Volume			
+	1216798262	MediumLow	Robot_Vic_Volume			
+	2849147824	Medium	Robot_Vic_Volume			
+	2974103762	Mute	Robot_Vic_Volume			
+	3176515060	MediumHigh	Robot_Vic_Volume			
+	3550808449	High	Robot_Vic_Volume			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	213272478	Low	Robot_Vic_Volume	\Actor-Mixer Hierarchy\Victor\Robot_Vic_Vo\Robot_Vic_Vo__External\Robot_Vic__External_Voice_Text_Processing		
+	222883986	Mute	Robot_Vic_Volume	\Actor-Mixer Hierarchy\Victor\Robot_Vic_Vo\Robot_Vic_Vo__External\Robot_Vic__External_Voice_Text_Processing		
+	342776012	Medium	Robot_Vic_Volume	\Actor-Mixer Hierarchy\Victor\Robot_Vic_Vo\Robot_Vic_Vo__External\Robot_Vic__External_Voice_Text_Processing		
+	755420164	MediumHigh	Robot_Vic_Volume	\Actor-Mixer Hierarchy\Victor\Robot_Vic_Vo\Robot_Vic_Vo__External\Robot_Vic__External_Voice_Text_Processing		
+	908254089	High	Robot_Vic_Volume	\Actor-Mixer Hierarchy\Victor\Robot_Vic_Vo\Robot_Vic_Vo__External\Robot_Vic__External_Voice_Text_Processing		
+	968276131	MediumLow	Robot_Vic_Volume	\Actor-Mixer Hierarchy\Victor\Robot_Vic_Vo\Robot_Vic_Vo__External\Robot_Vic__External_Voice_Text_Processing		
+
+Effect plug-ins	ID	Name	Type				Notes
+	1019336824	Brick_Wall_Minus_6dB_Peak_Fast_Release (Custom)	Wwise Peak Limiter			
+	2051987598	Krotos_Vocoder_12	Krotos Vocoder			
+	2600114325	Victor_Meter_Bus_External	Wwise Meter			
+	3650198585	Robot_Vic_TTS_Pre_Vocoder_Gain	Wwise Gain			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	234773708	Anki Streaming Wave Portal	Anki Streaming Wave Portal		\Actor-Mixer Hierarchy\Victor\Robot_Vic_Vo\Robot_Vic_Vo__External\Robot_Vic__External_Voice_Text_Processing\Robot_Vic__External_Source_English_Unprocessed_Streaming\Anki Streaming Wave Portal	
+	380226746	Anki Streaming Wave Portal	Anki Streaming Wave Portal		\Actor-Mixer Hierarchy\Victor\Robot_Vic_Vo\Robot_Vic_Vo__External\Robot_Vic__External_Voice_Text_Processing\Robot_Vic__External_Source_English_Processed_Streaming\Anki Streaming Wave Portal	
+	506058993	Anki Streaming Wave Portal	Anki Streaming Wave Portal		\Actor-Mixer Hierarchy\Victor\Robot_Vic_Vo\Robot_Vic_Vo__External\Robot_Vic__External_Voice_Message\Robot_Vic__External_Voice_Message\Anki Streaming Wave Portal	
+
