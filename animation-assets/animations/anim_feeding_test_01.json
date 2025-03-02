@@ -1,0 +1,17 @@
+{
+  "anim_feeding_test_01": [
+    {
+      "volume": 1.0,
+      "audioName": [
+        "Play__Robot_Sfx__Cube_Energy_Transfer"
+      ],
+      "Name": "RobotAudioKeyFrame",
+      "probability": 1.0,
+      "hasAlts": true,
+      "triggerTime_ms": 0.0,
+      "audioEventId": [
+        2633747393
+      ]
+    }
+  ]
+}

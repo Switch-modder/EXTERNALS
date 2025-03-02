@@ -1,0 +1,26 @@
+{
+  "anim_motiontrack_turnsmall": [
+    {
+      "volume": 1.0,
+      "audioName": [
+        "Play__Robot_Sfx__Scrn_Curious"
+      ],
+      "triggerTime_ms": 33.0,
+      "audioEventId": [
+        1701725212
+      ],
+      "Name": "RobotAudioKeyFrame"
+    },
+    {
+      "volume": 1.0,
+      "audioName": [
+        "Play__Robot_Vo__Shared_Idea"
+      ],
+      "triggerTime_ms": 133.0,
+      "audioEventId": [
+        2993967144
+      ],
+      "Name": "RobotAudioKeyFrame"
+    }
+  ]
+}

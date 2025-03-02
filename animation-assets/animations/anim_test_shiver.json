@@ -1,0 +1,39 @@
+{
+  "anim_test_shiver": [
+    {
+      "radius_mm": "STRAIGHT",
+      "speed": 160.0,
+      "triggerTime_ms": 0,
+      "durationTime_ms": 33,
+      "Name": "BodyMotionKeyFrame"
+    },
+    {
+      "radius_mm": "STRAIGHT",
+      "speed": -160.0,
+      "triggerTime_ms": 33,
+      "durationTime_ms": 33,
+      "Name": "BodyMotionKeyFrame"
+    },
+    {
+      "radius_mm": "STRAIGHT",
+      "speed": 160.0,
+      "triggerTime_ms": 67,
+      "durationTime_ms": 33,
+      "Name": "BodyMotionKeyFrame"
+    },
+    {
+      "radius_mm": "STRAIGHT",
+      "speed": -160.0,
+      "triggerTime_ms": 100,
+      "durationTime_ms": 33,
+      "Name": "BodyMotionKeyFrame"
+    },
+    {
+      "radius_mm": "STRAIGHT",
+      "speed": 160.0,
+      "triggerTime_ms": 133,
+      "durationTime_ms": 33,
+      "Name": "BodyMotionKeyFrame"
+    }
+  ]
+}

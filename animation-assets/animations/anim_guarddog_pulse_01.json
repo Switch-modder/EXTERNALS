@@ -1,0 +1,309 @@
+{
+  "anim_guarddog_pulse_01": [
+    {
+      "durationTime_ms": 99,
+      "triggerTime_ms": 0,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 43.258545952874265
+    },
+    {
+      "durationTime_ms": 99,
+      "triggerTime_ms": 99,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 32.0
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 0.0,
+      "triggerTime_ms": 0,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": -6.728425979614257,
+      "triggerTime_ms": 66,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 66
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 0.0,
+      "triggerTime_ms": 132,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 165
+    },
+    {
+      "durationTime_ms": 0,
+      "faceCenterY": 0.0,
+      "faceCenterX": 0.0,
+      "Name": "ProceduralFaceKeyFrame",
+      "faceScaleY": 1.0,
+      "faceScaleX": 1.0,
+      "rightEye": [
+        -10.206374107265454,
+        0.0,
+        1.2220369777691873,
+        0.9052803931751328,
+        0.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "triggerTime_ms": 0,
+      "faceAngle": 0.0,
+      "leftEye": [
+        9.169666010979592,
+        0.0,
+        1.214332921016245,
+        0.9052803931751328,
+        0.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "durationTime_ms": 0,
+      "faceCenterY": 3.6630671451435153,
+      "faceCenterX": 0.0,
+      "Name": "ProceduralFaceKeyFrame",
+      "faceScaleY": 0.7359147063732883,
+      "faceScaleX": 1.0350397825241089,
+      "rightEye": [
+        -10.206374107265454,
+        0.0,
+        1.2720201011258219,
+        0.9052803931751328,
+        0.0,
+        0.32410614661366505,
+        0.32410614661366505,
+        0.32410614661366505,
+        0.32410614661366505,
+        0.32410614661366505,
+        0.32410614661366505,
+        0.32410614661366505,
+        0.32410614661366505,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "triggerTime_ms": 66,
+      "faceAngle": 0.0,
+      "leftEye": [
+        9.169666010979592,
+        0.0,
+        1.2625817709801932,
+        0.9052803931751328,
+        0.0,
+        0.32410614661366505,
+        0.32410614661366505,
+        0.32410614661366505,
+        0.32410614661366505,
+        0.32410614661366505,
+        0.32410614661366505,
+        0.32410614661366505,
+        0.32410614661366505,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "durationTime_ms": 0,
+      "faceCenterY": -1.4992815264692239,
+      "faceCenterX": 0.0,
+      "Name": "ProceduralFaceKeyFrame",
+      "faceScaleY": 1.0673942565917969,
+      "faceScaleX": 0.9398421640518885,
+      "rightEye": [
+        -10.206374107265454,
+        0.0,
+        1.2523474550826774,
+        0.9052803931751328,
+        0.0,
+        0.39333552273650085,
+        0.39333552273650085,
+        0.39333552273650085,
+        0.39333552273650085,
+        0.39333552273650085,
+        0.39333552273650085,
+        0.39333552273650085,
+        0.39333552273650085,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "triggerTime_ms": 165,
+      "faceAngle": 0.0,
+      "leftEye": [
+        9.169666010979592,
+        0.0,
+        1.243591710264193,
+        0.9052803931751328,
+        0.0,
+        0.39333552273650085,
+        0.39333552273650085,
+        0.39333552273650085,
+        0.39333552273650085,
+        0.39333552273650085,
+        0.39333552273650085,
+        0.39333552273650085,
+        0.39333552273650085,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "durationTime_ms": 0,
+      "faceCenterY": 0.0,
+      "faceCenterX": 0.0,
+      "Name": "ProceduralFaceKeyFrame",
+      "faceScaleY": 1.0,
+      "faceScaleX": 1.0,
+      "rightEye": [
+        -10.206374107265454,
+        0.0,
+        1.2220369777691873,
+        0.9052803931751328,
+        0.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "triggerTime_ms": 297,
+      "faceAngle": 0.0,
+      "leftEye": [
+        9.169666010979592,
+        0.0,
+        1.214332921016245,
+        0.9052803931751328,
+        0.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "volume": 1.0,
+      "audioName": [
+        "Play__Robot_Vo__Shared_Curious_Short"
+      ],
+      "Name": "RobotAudioKeyFrame",
+      "probability": 1.0,
+      "hasAlts": true,
+      "triggerTime_ms": 0.0,
+      "audioEventId": [
+        4047754278
+      ]
+    },
+    {
+      "Right": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Name": "BackpackLightsKeyFrame",
+      "durationTime_ms": 297.0,
+      "Back": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Middle": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Front": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "triggerTime_ms": 0.0,
+      "Left": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "durationTime_ms": 99.0,
+      "speed": -101.01010101010101,
+      "triggerTime_ms": 33.0,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    },
+    {
+      "durationTime_ms": 165.0,
+      "speed": 60.6060606060606,
+      "triggerTime_ms": 132.0,
+      "Name": "BodyMotionKeyFrame",
+      "radius_mm": "STRAIGHT"
+    }
+  ]
+}
