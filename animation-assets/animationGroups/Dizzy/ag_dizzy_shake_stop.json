@@ -1,7 +1,7 @@
 {
   "Animations": [
     {
-      "Name": "anim_dizzy_shake_stop_01",
+      "Name": "_PROCEDURAL_",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"
