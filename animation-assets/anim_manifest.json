@@ -4866,5 +4866,81 @@
   {
     "name": "vig_ah_shot_7_b",
     "length_ms": 16797
-  }
+  },
+  {
+    "name": "anim_workout_highenergy_getin_01",
+    "length_ms": 1749
+  },
+  {
+    "name": "anim_workout_highenergy_getout_01",
+    "length_ms": 6468
+  },
+  {
+    "name": "anim_workout_highenergy_getready_01",
+    "length_ms": 3993
+  },
+  {
+    "name": "anim_workout_highenergy_strong_01",
+    "length_ms": 1320
+  },
+  {
+    "name": "anim_workout_highenergy_trans_01",
+    "length_ms": 1914
+  },
+  {
+    "name": "anim_workout_highenergy_weak_01",
+    "length_ms": 1782
+  },
+  {
+    "name": "anim_workout_lowenergy_getin_01",
+    "length_ms": 2013
+  },
+  {
+    "name": "anim_workout_lowenergy_getout_01",
+    "length_ms": 10890
+  },
+  {
+    "name": "anim_workout_lowenergy_getout_02",
+    "length_ms": 5907
+  },
+  {
+    "name": "anim_workout_lowenergy_getready_01",
+    "length_ms": 4158
+  },
+  {
+    "name": "anim_workout_lowenergy_strong_01",
+    "length_ms": 5181
+  },
+  {
+    "name": "anim_workout_lowenergy_trans_01",
+    "length_ms": 5181
+  },
+  {
+    "name": "anim_workout_lowenergy_weak_01",
+    "length_ms": 4785
+  },
+  {
+    "name": "anim_workout_mediumenergy_getin_01",
+    "length_ms": 1353
+  },
+  {
+    "name": "anim_workout_mediumenergy_getout_01",
+    "length_ms": 4290
+  },
+  {
+    "name": "anim_workout_mediumenergy_getready_01",
+    "length_ms": 1650
+  },
+  {
+    "name": "anim_workout_mediumenergy_strong_01",
+    "length_ms": 2310
+  },
+  {
+    "name": "anim_workout_mediumenergy_weak_01",
+    "length_ms": 2310
+  },
+  {
+    "name": "anim_workout_mediumenergy_trans_01",
+    "length_ms": 2310
+  },
 ]
