@@ -5,12 +5,6 @@
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"
-    },
-    {
-      "Name": "vig_ah_shot_7_b",
-      "Weight": 1.0,
-      "CooldownTime_Sec": 0.0,
-      "Mood": "Default"
     }
   ]
 }
