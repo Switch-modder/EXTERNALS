@@ -4942,5 +4942,45 @@
   {
     "name": "anim_workout_mediumenergy_trans_01",
     "length_ms": 2310
+  },
+  {
+    "name": "anim_energy_eat_01",
+    "length_ms": 13860
+  },
+  {
+    "name": "anim_energy_eat_02",
+    "length_ms": 8613
+  },
+  {
+    "name": "anim_energy_eat_03",
+    "length_ms": 8349
+  },
+  {
+    "name": "anim_energy_eat_04",
+    "length_ms": 9372
+  },
+  {
+    "name": "anim_energy_eat_lvl1_03",
+    "length_ms": 8019
+  },
+  {
+    "name": "anim_energy_eat_lvl1_06",
+    "length_ms": 8943
+  },  
+  {
+    "name": "anim_energy_eat_lvl1_07",
+    "length_ms": 9867
+  },
+  {
+    "name": "anim_energy_eat_lvl1_08",
+    "length_ms": 13893
+  },
+  {
+    "name": "anim_energy_eat_lvl1_09",
+    "length_ms": 9372
+  },
+  {
+    "name": "anim_energy_eat_lvl2_05",
+    "length_ms": 7326
   }
 ]
