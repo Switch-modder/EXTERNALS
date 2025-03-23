@@ -4982,5 +4982,37 @@
   {
     "name": "anim_energy_eat_lvl2_05",
     "length_ms": 7326
+  },
+  {
+    "name": "anim_bored_01",
+    "length_ms": 1089
+  },
+  {
+    "name": "anim_bored_02",
+    "length_ms": 1320
+  },
+  {
+    "name": "anim_bored_event_01",
+    "length_ms": 6501
+  },
+  {
+    "name": "anim_bored_event_02",
+    "length_ms": 3960
+  },
+  {
+    "name": "anim_bored_event_03",
+    "length_ms": 10230
+  },
+  {
+    "name": "anim_bored_event_04",
+    "length_ms": 11484
+  },
+  {
+    "name": "anim_bored_getout_01",
+    "length_ms": 1452
+  },
+  {
+    "name": "anim_bored_getout_02",
+    "length_ms": 1320
   }
 ]
