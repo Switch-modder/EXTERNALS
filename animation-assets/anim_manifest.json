@@ -4982,5 +4982,9 @@
   {
     "name": "anim_energy_eat_lvl2_05",
     "length_ms": 7326
+  },
+  {
+    "name": "anim_vc_reaction_whatwasthat_01",
+    "length_ms": 2706
   }
 ]
