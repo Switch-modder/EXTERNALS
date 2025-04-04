@@ -1,7 +1,11 @@
 {
   "Animations": [
     {
+<<<<<<< HEAD
       "Name": "anim_wakeword_getin_01",
+=======
+      "Name": "anim_vc_listen-new",
+>>>>>>> 29d1f3a3 (I swear if VC doesn't work after this I will murder someone in the most violent way possible 3 times over)
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"
