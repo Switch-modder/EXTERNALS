@@ -4998,5 +4998,13 @@
   {
     "name": "anim_bored_event_04",
     "length_ms": 11484
+  },
+  {
+    "name": "anim_upgrade_reaction_tracks_01",
+    "length_ms": 1375
+  },
+  {
+    "name": "anim_upgrade_reaction_lift_01",
+    "length_ms": 2338
   }
 ]
