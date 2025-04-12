@@ -5006,5 +5006,13 @@
   {
     "name": "anim_upgrade_reaction_lift_01",
     "length_ms": 2338
+  },
+  {
+    "name": "anim_guarddog_sleeploop_01",
+    "length_ms": 6567
+  },
+  {
+    "name": "anim_guarddog_sleeploop_02",
+    "length_ms": 11550
   }
 ]
