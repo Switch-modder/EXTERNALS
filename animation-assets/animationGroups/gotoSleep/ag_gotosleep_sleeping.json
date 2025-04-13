@@ -7,7 +7,25 @@
       "Mood": "Default"
     },
     {
+      "Name": "anim_gotosleep_sleeping_02",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
       "Name": "anim_launch_sleeping_01",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_guarddog_sleeploop_01",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
+      "Name": "anim_guarddog_sleeploop_02",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"
