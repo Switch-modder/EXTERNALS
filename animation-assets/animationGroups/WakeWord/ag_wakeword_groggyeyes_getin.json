@@ -1,7 +1,7 @@
 {
   "Animations": [
     {
-      "Name": "anim_wakeword_groggyeyes_getin_01",
+      "Name": "anim_vc_listen-new-new",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"
