@@ -1,0 +1,12 @@
+Event	ID	Name			Wwise Object Path	Notes
+	255088144	Play_Cozmo_80bpm			\Default Work Unit\Play_Cozmo_80bpm	
+	985691727	Play_Cozmo_120bpm			\Default Work Unit\Play_Cozmo_120bpm	
+	1768031725	Play_Cozmo_100bpm			\Default Work Unit\Play_Cozmo_100bpm	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	120386407	Cozmo-120bpm	D:\Wwise projects\Cozmo-singing\.cache\Linux\SFX\Cozmo-120bpm_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-120bpm		829504
+	774551315	Cosmo-100bpm	D:\Wwise projects\Cozmo-singing\.cache\Linux\SFX\Cosmo-100bpm_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cosmo-100bpm		1013824
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	687412284	Cosmo-80bpm	D:\Wwise projects\Cozmo-singing\.cache\Linux\SFX\Cosmo-80bpm_B0918523.wem	687412284.wem	\Actor-Mixer Hierarchy\Default Work Unit\Cosmo-80bpm	
+
