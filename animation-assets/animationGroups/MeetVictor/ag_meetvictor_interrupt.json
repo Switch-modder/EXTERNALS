@@ -1,7 +1,7 @@
 {
   "Animations": [
     {
-      "Name": "anim_meetvictor_lookface_interrupted_01",
+      "Name": "anim_meetcozmo_lookface_interrupt",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"
