@@ -1,7 +1,7 @@
 {
   "Animations": [
     {
-      "Name": "anim_meetcozmo_getin",
+      "Name": "anim_meetvictor_getin_01",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default",
@@ -10,7 +10,7 @@
       "HeadAngleMax_Deg": 10.0
     },
     {
-      "Name": "anim_meetcozmo_getin_head_angle_-20",
+      "Name": "anim_meetvictor_getin_01_head_angle_-20",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default",
@@ -19,7 +19,7 @@
       "HeadAngleMax_Deg": -10.0
     },
     {
-      "Name": "anim_meetcozmo_getin_head_angle_20",
+      "Name": "anim_meetvictor_getin_01_head_angle_20",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default",
@@ -28,7 +28,7 @@
       "HeadAngleMax_Deg": 30.0
     },
     {
-      "Name": "anim_meetcozmo_getin_head_angle_40",
+      "Name": "anim_meetvictor_getin_01_head_angle_40",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default",
