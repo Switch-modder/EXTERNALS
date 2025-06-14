@@ -5014,5 +5014,9 @@
   {
     "name": "anim_guarddog_sleeploop_02",
     "length_ms": 11550
+  },
+  {
+    "name": "layout_colormismatch_01",
+    "length_ms": 21021
   }
 ]
