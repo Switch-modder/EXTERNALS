@@ -13,6 +13,12 @@
       "Mood": "Default"
     },
     {
+      "Name": "anim_rtshake_lv2rtonhand_looseeye_01",
+      "Weight": 1.0,
+      "CooldownTime_Sec": 0.0,
+      "Mood": "Default"
+    },
+    {
       "Name": "anim_rtshake_lv2rtonground_looseeye_01",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
@@ -38,12 +44,6 @@
     },
     {
       "Name": "anim_cozmosings_100_song_01",
-      "Weight": 1.0,
-      "CooldownTime_Sec": 0.0,
-      "Mood": "Default"
-    },
-    {
-      "Name": "anim_bored_event_02",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
       "Mood": "Default"
