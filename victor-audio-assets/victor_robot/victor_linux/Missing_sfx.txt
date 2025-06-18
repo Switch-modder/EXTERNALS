@@ -2,6 +2,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	9207464	Play__Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix			\Default Work Unit\Play__Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix	
 	364591870	Play__Robot_Vic_Sfx__Power_On_Mismatched_Eyes			\Default Work Unit\Play__Robot_Vic_Sfx__Power_On_Mismatched_Eyes	
 	436264283	Play__Robot_Vic_Sfx__Low_Light_Charging_End			\Default Work Unit\Play__Robot_Vic_Sfx__Low_Light_Charging_End	
+	1312053763	Play__Robot_Vic_Sfx__Camera_Charge_Play			\Default Work Unit\Play__Robot_Vic_Sfx__Camera_Charge_Play	
 	1545176977	Play__Robot_Vic_Sfx__Power_Off_End			\Default Work Unit\Play__Robot_Vic_Sfx__Power_Off_End	
 	1736370596	Play__Robot_Vic_Sfx__Camera_Focus_3			\Default Work Unit\Play__Robot_Vic_Sfx__Camera_Focus_3	
 	1736370597	Play__Robot_Vic_Sfx__Camera_Focus_2			\Default Work Unit\Play__Robot_Vic_Sfx__Camera_Focus_2	
@@ -9,7 +10,6 @@ Event	ID	Name			Wwise Object Path	Notes
 	2179926555	Play__Robot_Vic_Sfx__Power_On			\Default Work Unit\Play__Robot_Vic_Sfx__Power_On	
 	2602622212	Play__Robot_Vic_Sfx__Power_On_Short			\Default Work Unit\Play__Robot_Vic_Sfx__Power_On_Short	
 	2655837071	Play__Robot_Vic_Sfx__Power_Off			\Default Work Unit\Play__Robot_Vic_Sfx__Power_Off	
-	2694980426	Play__Robot_Vic_Sfx__Camera_Charge__Play			\Default Work Unit\Play__Robot_Vic_Sfx__Camera_Charge__Play	
 	2894417895	Play__Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop			\Default Work Unit\Play__Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop	
 	3327136896	Play__Robot_Vic_Sfx__Low_Light_Charging_Start			\Default Work Unit\Play__Robot_Vic_Sfx__Low_Light_Charging_Start	
 	3616541293	Play__Robot_Vic_Sfx__Power_On_Crooked			\Default Work Unit\Play__Robot_Vic_Sfx__Power_On_Crooked	
