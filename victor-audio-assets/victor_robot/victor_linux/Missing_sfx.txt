@@ -17,7 +17,7 @@ Event	ID	Name			Wwise Object Path	Notes
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	84337024	Robot_Vic_Sfx__Power_Off_End_WM	D:\Wwise projects\Cozmo-singing\.cache\Linux\SFX\Robot_Vic_Sfx__Power_Off_End_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Power_Off_End_WM		4753
 	133119974	Robot_Vic_Sfx__Camera_Flash_WM	D:\Wwise projects\Cozmo-singing\.cache\Linux\SFX\Robot_Vic_Sfx__Camera_Flash_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Camera_Flash_WM		8593
-	260498101	Robot_Vic_Sfx__Camera_Focus_WM_01	D:\Wwise projects\Cozmo-singing\.cache\Linux\SFX\Robot_Vic_Sfx__Camera_Focus_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Camera_Focus_WM_01		10773
+	260498101	Robot_Vic_Sfx__Camera_Focus_WM_01	D:\Wwise projects\Cozmo-singing\.cache\Linux\SFX\Robot_Vic_Sfx__Camera_Focus_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Camera_Focus_WM_01		5910
 	264894955	Robot_Vic_Sfx__Power_On_Mismatched_Eyes_WM	D:\Wwise projects\Cozmo-singing\.cache\Linux\SFX\Robot_Vic_Sfx__Power_On_Mismatched_Eyes_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Power_On_Mismatched_Eyes_WM		6511
 	277236138	Robot_Vic_Sfx__Power_On_Short_WM	D:\Wwise projects\Cozmo-singing\.cache\Linux\SFX\Robot_Vic_Sfx__Power_On_Short_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Power_On_Short_WM		8396
 	370748333	Robot_Vic_Sfx__Power_On_Crooked_WM	D:\Wwise projects\Cozmo-singing\.cache\Linux\SFX\Robot_Vic_Sfx__Power_On_Crooked_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Power_On_Crooked_WM		13869
