@@ -2,8 +2,8 @@ Event	ID	Name			Wwise Object Path	Notes
 	9207464	Play__Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix			\Default Work Unit\Play__Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix	
 	364591870	Play__Robot_Vic_Sfx__Power_On_Mismatched_Eyes			\Default Work Unit\Play__Robot_Vic_Sfx__Power_On_Mismatched_Eyes	
 	436264283	Play__Robot_Vic_Sfx__Low_Light_Charging_End			\Default Work Unit\Play__Robot_Vic_Sfx__Low_Light_Charging_End	
+	1078700783	Play__Robot_Vic_Sfx__Touch_React			\Default Work Unit\Play__Robot_Vic_Sfx__Touch_React	
 	1312053763	Play__Robot_Vic_Sfx__Camera_Charge_Play			\Default Work Unit\Play__Robot_Vic_Sfx__Camera_Charge_Play	
-	1545176977	Play__Robot_Vic_Sfx__Power_Off_End			\Default Work Unit\Play__Robot_Vic_Sfx__Power_Off_End	
 	1736370596	Play__Robot_Vic_Sfx__Camera_Focus_3			\Default Work Unit\Play__Robot_Vic_Sfx__Camera_Focus_3	
 	1736370597	Play__Robot_Vic_Sfx__Camera_Focus_2			\Default Work Unit\Play__Robot_Vic_Sfx__Camera_Focus_2	
 	1736370598	Play__Robot_Vic_Sfx__Camera_Focus_1			\Default Work Unit\Play__Robot_Vic_Sfx__Camera_Focus_1	
