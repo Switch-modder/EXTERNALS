@@ -1,37 +1,49 @@
 Event	ID	Name			Wwise Object Path	Notes
-	9207464	Play__Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix			\Default Work Unit\Play__Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix	
-	364591870	Play__Robot_Vic_Sfx__Power_On_Mismatched_Eyes			\Default Work Unit\Play__Robot_Vic_Sfx__Power_On_Mismatched_Eyes	
-	436264283	Play__Robot_Vic_Sfx__Low_Light_Charging_End			\Default Work Unit\Play__Robot_Vic_Sfx__Low_Light_Charging_End	
-	1078700783	Play__Robot_Vic_Sfx__Touch_React			\Default Work Unit\Play__Robot_Vic_Sfx__Touch_React	
-	1312053763	Play__Robot_Vic_Sfx__Camera_Charge_Play			\Default Work Unit\Play__Robot_Vic_Sfx__Camera_Charge_Play	
-	1736370596	Play__Robot_Vic_Sfx__Camera_Focus_3			\Default Work Unit\Play__Robot_Vic_Sfx__Camera_Focus_3	
-	1736370597	Play__Robot_Vic_Sfx__Camera_Focus_2			\Default Work Unit\Play__Robot_Vic_Sfx__Camera_Focus_2	
-	1736370598	Play__Robot_Vic_Sfx__Camera_Focus_1			\Default Work Unit\Play__Robot_Vic_Sfx__Camera_Focus_1	
-	2179926555	Play__Robot_Vic_Sfx__Power_On			\Default Work Unit\Play__Robot_Vic_Sfx__Power_On	
-	2602622212	Play__Robot_Vic_Sfx__Power_On_Short			\Default Work Unit\Play__Robot_Vic_Sfx__Power_On_Short	
-	2655837071	Play__Robot_Vic_Sfx__Power_Off			\Default Work Unit\Play__Robot_Vic_Sfx__Power_Off	
-	2894417895	Play__Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop			\Default Work Unit\Play__Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop	
-	3327136896	Play__Robot_Vic_Sfx__Low_Light_Charging_Start			\Default Work Unit\Play__Robot_Vic_Sfx__Low_Light_Charging_Start	
-	3616541293	Play__Robot_Vic_Sfx__Power_On_Crooked			\Default Work Unit\Play__Robot_Vic_Sfx__Power_On_Crooked	
-	3640508870	Play__Robot_Vic_Sfx__Camera_Fire			\Default Work Unit\Play__Robot_Vic_Sfx__Camera_Fire	
-	4217238598	Play__Robot_Vic_Sfx__Camera_Focus			\Default Work Unit\Play__Robot_Vic_Sfx__Camera_Focus	
+	9207464	Play__Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix	
+	62303530	Play__Robot_Sfx__Bored_Pendulum			\Default Work Unit\Missing_sfx\Play__Robot_Sfx__Bored_Pendulum	
+	364591870	Play__Robot_Vic_Sfx__Power_On_Mismatched_Eyes			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Power_On_Mismatched_Eyes	
+	436264283	Play__Robot_Vic_Sfx__Low_Light_Charging_End			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Low_Light_Charging_End	
+	1078700783	Play__Robot_Vic_Sfx__Touch_React			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Touch_React	
+	1312053763	Play__Robot_Vic_Sfx__Camera_Charge_Play			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Camera_Charge_Play	
+	1736370596	Play__Robot_Vic_Sfx__Camera_Focus_3			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Camera_Focus_3	
+	1736370597	Play__Robot_Vic_Sfx__Camera_Focus_2			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Camera_Focus_2	
+	1736370598	Play__Robot_Vic_Sfx__Camera_Focus_1			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Camera_Focus_1	
+	2179926555	Play__Robot_Vic_Sfx__Power_On			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Power_On	
+	2492717357	Play__Robot_Vo__Shared_Inhale_Breath_Medium			\Default Work Unit\Missing_sfx\Play__Robot_Vo__Shared_Inhale_Breath_Medium	
+	2602622212	Play__Robot_Vic_Sfx__Power_On_Short			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Power_On_Short	
+	2655837071	Play__Robot_Vic_Sfx__Power_Off			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Power_Off	
+	2894417895	Play__Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop	
+	3327136896	Play__Robot_Vic_Sfx__Low_Light_Charging_Start			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Low_Light_Charging_Start	
+	3616541293	Play__Robot_Vic_Sfx__Power_On_Crooked			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Power_On_Crooked	
+	3640508870	Play__Robot_Vic_Sfx__Camera_Fire			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Camera_Fire	
+	3905586496	Play__Robot_Sfx__Bored_Slot			\Default Work Unit\Missing_sfx\Play__Robot_Sfx__Bored_Slot	
+	4013569785	Play__Robot_Sfx__Bored_Brickout			\Default Work Unit\Missing_sfx\Play__Robot_Sfx__Bored_Brickout	
+	4217238598	Play__Robot_Vic_Sfx__Camera_Focus			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Camera_Focus	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	84337024	Robot_Vic_Sfx__Power_Off_End_WM	D:\Wwise projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_Off_End_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Power_Off_End_WM		4753
-	133119974	Robot_Vic_Sfx__Camera_Flash_WM	D:\Wwise projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Camera_Flash_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Camera_Flash_WM		8593
-	260498101	Robot_Vic_Sfx__Camera_Focus_WM_01	D:\Wwise projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Camera_Focus_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Camera_Focus_WM_01		5910
-	264894955	Robot_Vic_Sfx__Power_On_Mismatched_Eyes_WM	D:\Wwise projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_On_Mismatched_Eyes_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Power_On_Mismatched_Eyes_WM		6511
-	277236138	Robot_Vic_Sfx__Power_On_Short_WM	D:\Wwise projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_On_Short_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Power_On_Short_WM		8396
-	370748333	Robot_Vic_Sfx__Power_On_Crooked_WM	D:\Wwise projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_On_Crooked_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Power_On_Crooked_WM		13869
-	452607584	Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop_WM	D:\Wwise projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop_WM		2932
-	470240706	Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix_WM	D:\Wwise projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix_WM		3703
-	521533998	Robot_Vic_Sfx__Power_On_WM	D:\Wwise projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_On_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Power_On_WM		20176
-	698113681	Robot_Vic_Sfx__Camera_Charge_WM	D:\Wwise projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Camera_Charge_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Camera_Charge_WM		36192
-	919930125	Robot_Vic_Sfx__Onboarding_Power_On_Eyes_Open_WM	D:\Wwise projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Onboarding_Power_On_Eyes_Open_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Onboarding_Power_On_Eyes_Open_WM		5857
-	977092656	Robot_Vic_Sfx__Onboarding_Power_On_Initialize_WM	D:\Wwise projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Onboarding_Power_On_Initialize_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Onboarding_Power_On_Initialize_WM		5854
-	984092153	Robot_SFX__Explorer_Night_Vision_On	D:\Wwise projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_SFX__Explorer_Night_Vision_On_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_SFX__Explorer_Night_Vision_On		9597
-	1039352055	Robot_Vic_Sfx__Power_Off_WM	D:\Wwise projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_Off_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Robot_Vic_Sfx__Power_Off_WM		18962
+	84337024	Robot_Vic_Sfx__Power_Off_End_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_Off_End_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_Vic_Sfx__Power_Off_End_WM		4753
+	133119974	Robot_Vic_Sfx__Camera_Flash_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Camera_Flash_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_Vic_Sfx__Camera_Flash_WM		8593
+	234497864	Robot_SFX__Bored_Slot	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_SFX__Bored_Slot_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_SFX__Bored_Slot		94827
+	260498101	Robot_Vic_Sfx__Camera_Focus_WM_01	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Camera_Focus_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_Vic_Sfx__Camera_Focus_WM_01		5910
+	264894955	Robot_Vic_Sfx__Power_On_Mismatched_Eyes_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_On_Mismatched_Eyes_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_Vic_Sfx__Power_On_Mismatched_Eyes_WM		6511
+	277236138	Robot_Vic_Sfx__Power_On_Short_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_On_Short_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_Vic_Sfx__Power_On_Short_WM		8396
+	370748333	Robot_Vic_Sfx__Power_On_Crooked_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_On_Crooked_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_Vic_Sfx__Power_On_Crooked_WM		13869
+	452607584	Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop_WM		2932
+	470240706	Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix_WM		3703
+	521533998	Robot_Vic_Sfx__Power_On_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_On_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_Vic_Sfx__Power_On_WM		20176
+	587862066	Robot_VO__Shared_Inhale_Take_Breath_Medium_05_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Shared_Inhale_Take_Breath_Medium_05_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Breath_medium_inhale\Robot_VO__Shared_Inhale_Take_Breath_Medium_05_WM		61078
+	612354249	Robot_VO__Shared_Inhale_Take_Breath_Medium_04_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Shared_Inhale_Take_Breath_Medium_04_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Breath_medium_inhale\Robot_VO__Shared_Inhale_Take_Breath_Medium_04_WM		59528
+	657443070	Robot_SFX__Bored_Brickout	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_SFX__Bored_Brickout_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_SFX__Bored_Brickout		37422
+	670442156	Robot_VO__Shared_Inhale_Take_Breath_Medium_01_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Shared_Inhale_Take_Breath_Medium_01_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Breath_medium_inhale\Robot_VO__Shared_Inhale_Take_Breath_Medium_01_WM		70464
+	698113681	Robot_Vic_Sfx__Camera_Charge_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Camera_Charge_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_Vic_Sfx__Camera_Charge_WM		36192
+	764552563	Robot_VO__Shared_Inhale_Take_Breath_Medium_06_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Shared_Inhale_Take_Breath_Medium_06_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Breath_medium_inhale\Robot_VO__Shared_Inhale_Take_Breath_Medium_06_WM		53796
+	801968429	Robot_VO__Shared_Inhale_Take_Breath_Medium_08_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Shared_Inhale_Take_Breath_Medium_08_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Breath_medium_inhale\Robot_VO__Shared_Inhale_Take_Breath_Medium_08_WM		63268
+	919930125	Robot_Vic_Sfx__Onboarding_Power_On_Eyes_Open_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Onboarding_Power_On_Eyes_Open_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_Vic_Sfx__Onboarding_Power_On_Eyes_Open_WM		5857
+	942985136	Robot_SFX__Bored_Pendulum	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_SFX__Bored_Pendulum_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_SFX__Bored_Pendulum		52482
+	977092656	Robot_Vic_Sfx__Onboarding_Power_On_Initialize_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Onboarding_Power_On_Initialize_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_Vic_Sfx__Onboarding_Power_On_Initialize_WM		5854
+	984092153	Robot_SFX__Explorer_Night_Vision_On	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_SFX__Explorer_Night_Vision_On_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_SFX__Explorer_Night_Vision_On		9597
+	1039352055	Robot_Vic_Sfx__Power_Off_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_Off_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_Vic_Sfx__Power_Off_WM		18962
 
 Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
-	666735090	Robot_SFX__Explorer_Night_Vision_Off	D:\Wwise projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_SFX__Explorer_Night_Vision_Off_B0918523.wem	666735090.wem	\Actor-Mixer Hierarchy\Default Work Unit\Robot_SFX__Explorer_Night_Vision_Off	
+	666735090	Robot_SFX__Explorer_Night_Vision_Off	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_SFX__Explorer_Night_Vision_Off_B0918523.wem	666735090.wem	\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Robot_SFX__Explorer_Night_Vision_Off	
 

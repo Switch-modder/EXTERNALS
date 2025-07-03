@@ -1,12 +1,11 @@
 Event	ID	Name			Wwise Object Path	Notes
-	255088144	Play_Cozmo_80bpm			\Default Work Unit\Play_Cozmo_80bpm	
-	927173192	Play__Robot_Vo__Sing_Getin_03_1			\Default Work Unit\Play__Robot_Vo__Sing_Getin_03_1	
-	927173195	Play__Robot_Vo__Sing_Getin_03_2			\Default Work Unit\Play__Robot_Vo__Sing_Getin_03_2	
-	985691727	Play_Cozmo_120bpm			\Default Work Unit\Play_Cozmo_120bpm	
-	1768031725	Play_Cozmo_100bpm			\Default Work Unit\Play_Cozmo_100bpm	
-	2001087969	Play__Robot_Vo__Sing_Getin_02_1			\Default Work Unit\Play__Robot_Vo__Sing_Getin_02_1	
-	2001087970	Play__Robot_Vo__Sing_Getin_02_2			\Default Work Unit\Play__Robot_Vo__Sing_Getin_02_2	
-	2492717357	Play__Robot_Vo__Shared_Inhale_Breath_Medium			\Default Work Unit\Play__Robot_Vo__Shared_Inhale_Breath_Medium	
+	255088144	Play_Cozmo_80bpm			\Default Work Unit\Singing\Play_Cozmo_80bpm	
+	927173192	Play__Robot_Vo__Sing_Getin_03_1			\Default Work Unit\Singing\Play__Robot_Vo__Sing_Getin_03_1	
+	927173195	Play__Robot_Vo__Sing_Getin_03_2			\Default Work Unit\Singing\Play__Robot_Vo__Sing_Getin_03_2	
+	985691727	Play_Cozmo_120bpm			\Default Work Unit\Singing\Play_Cozmo_120bpm	
+	1768031725	Play_Cozmo_100bpm			\Default Work Unit\Singing\Play_Cozmo_100bpm	
+	2001087969	Play__Robot_Vo__Sing_Getin_02_1			\Default Work Unit\Singing\Play__Robot_Vo__Sing_Getin_02_1	
+	2001087970	Play__Robot_Vo__Sing_Getin_02_2			\Default Work Unit\Singing\Play__Robot_Vo__Sing_Getin_02_2	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	3969064	Moonlight Bay	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Moonlight Bay_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Cozmo-120\Moonlight Bay		19383
@@ -45,19 +44,14 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	561673693	Mountain King	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Mountain King_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Cozmo-100\Mountain King		31265
 	575600888	Trisket Tasket	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Trisket Tasket_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Cozmo-100\Trisket Tasket		34617
 	585154728	Mary Had Little Lamb	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Mary Had Little Lamb_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Cozmo-80\Mary Had Little Lamb		31684
-	587862066	Robot_VO__Shared_Inhale_Take_Breath_Medium_05_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Shared_Inhale_Take_Breath_Medium_05_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Breath_medium_inhale\Robot_VO__Shared_Inhale_Take_Breath_Medium_05_WM		61078
-	612354249	Robot_VO__Shared_Inhale_Take_Breath_Medium_04_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Shared_Inhale_Take_Breath_Medium_04_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Breath_medium_inhale\Robot_VO__Shared_Inhale_Take_Breath_Medium_04_WM		59528
 	661258959	Toccata	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Toccata_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Cozmo-120\Toccata		26296
-	670442156	Robot_VO__Shared_Inhale_Take_Breath_Medium_01_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Shared_Inhale_Take_Breath_Medium_01_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Breath_medium_inhale\Robot_VO__Shared_Inhale_Take_Breath_Medium_01_WM		70464
 	728315844	Robot_VO__Singing_Getin_02_1_02_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Singing_Getin_02_1_02_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Singing_getin_02_1\Robot_VO__Singing_Getin_02_1_02_WM		304054
 	744169758	Robot_VO__Singing_Getin_02_2_04_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Singing_Getin_02_2_04_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Singing_getin_02_2\Robot_VO__Singing_Getin_02_2_04_WM		40330
 	744555901	Muffin Man	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Muffin Man_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Cozmo-80\Muffin Man		40467
 	752805727	Pop Goes The Weasel	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Pop Goes The Weasel_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Cozmo-100\Pop Goes The Weasel		24967
 	756558931	Frere Jacques	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Frere Jacques_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Cozmo-80\Frere Jacques		39680
-	764552563	Robot_VO__Shared_Inhale_Take_Breath_Medium_06_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Shared_Inhale_Take_Breath_Medium_06_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Breath_medium_inhale\Robot_VO__Shared_Inhale_Take_Breath_Medium_06_WM		53796
 	771493778	Hush Little Baby	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Hush Little Baby_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Cozmo-120\Hush Little Baby		25883
 	771694762	Buffalo Gals	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Buffalo Gals_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Cozmo-100\Buffalo Gals		30611
-	801968429	Robot_VO__Shared_Inhale_Take_Breath_Medium_08_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Shared_Inhale_Take_Breath_Medium_08_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Breath_medium_inhale\Robot_VO__Shared_Inhale_Take_Breath_Medium_08_WM		63268
 	817981972	Yankee Doodle	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Yankee Doodle_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Cozmo-80\Yankee Doodle		39855
 	853543843	Turkey In The Straw	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Turkey In The Straw_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Cozmo-120\Turkey In The Straw		26431
 	863497712	Pachebel Canon	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Pachebel Canon_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Cozmo-80\Pachebel Canon		39302
