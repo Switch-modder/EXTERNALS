@@ -1,25 +1,40 @@
 Event	ID	Name			Wwise Object Path	Notes
 	9207464	Play__Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix			\Default Work Unit\Missing_sfx\Power\Play__Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix	
 	62303530	Play__Robot_Sfx__Bored_Pendulum			\Default Work Unit\Missing_sfx\Bored\Play__Robot_Sfx__Bored_Pendulum	
-	284488955	Play__Robot_Vic_Sfx__Planning_Loop_Play			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Planning_Loop_Play	
+	284488955	Play__Robot_Vic_Sfx__Planning_Loop_Play			\Default Work Unit\Missing_sfx\Exploring\Play__Robot_Vic_Sfx__Planning_Loop_Play	
 	364591870	Play__Robot_Vic_Sfx__Power_On_Mismatched_Eyes			\Default Work Unit\Missing_sfx\Power\Play__Robot_Vic_Sfx__Power_On_Mismatched_Eyes	
 	436264283	Play__Robot_Vic_Sfx__Low_Light_Charging_End			\Default Work Unit\Missing_sfx\LowLight\Play__Robot_Vic_Sfx__Low_Light_Charging_End	
+	555760346	Stop__Robot_Vic_Sfx__Snowglobe_Global_Loop_Stop			\Default Work Unit\Missing_sfx\Snowglobe\Stop__Robot_Vic_Sfx__Snowglobe_Global_Loop_Stop	
+	711426914	Play__Robot_Vic_Sfx__Snowglobe_Wind_Loop_Fast_Play			\Default Work Unit\Missing_sfx\Snowglobe\Play__Robot_Vic_Sfx__Snowglobe_Wind_Loop_Fast_Play	
 	1078700783	Play__Robot_Vic_Sfx__Touch_React			\Default Work Unit\Missing_sfx\Play__Robot_Vic_Sfx__Touch_React	
+	1119216913	Stop__Robot_Vic_Sfx__Snowglobe_Wind_Loop_Slow_Stop			\Default Work Unit\Missing_sfx\Snowglobe\Stop__Robot_Vic_Sfx__Snowglobe_Wind_Loop_Slow_Stop	
 	1312053763	Play__Robot_Vic_Sfx__Camera_Charge_Play			\Default Work Unit\Missing_sfx\Camera\Play__Robot_Vic_Sfx__Camera_Charge_Play	
+	1333208724	Stop__Robot_Vic_Sfx__Snowglobe_All_Loop_Stop			\Default Work Unit\Missing_sfx\Snowglobe\Stop__Robot_Vic_Sfx__Snowglobe_All_Loop_Stop	
+	1485491007	Stop__Robot_Vic_Sfx__Snowglobe_Chime_Loop_Medium_Stop			\Default Work Unit\Missing_sfx\Snowglobe\Stop__Robot_Vic_Sfx__Snowglobe_Chime_Loop_Medium_Stop	
+	1585467997	Play__Robot_Vic_Sfx__Snowglobe_Chime_Loop_Slow_Play			\Default Work Unit\Missing_sfx\Snowglobe\Play__Robot_Vic_Sfx__Snowglobe_Chime_Loop_Slow_Play	
 	1736370596	Play__Robot_Vic_Sfx__Camera_Focus_3			\Default Work Unit\Missing_sfx\Camera\Play__Robot_Vic_Sfx__Camera_Focus_3	
 	1736370597	Play__Robot_Vic_Sfx__Camera_Focus_2			\Default Work Unit\Missing_sfx\Camera\Play__Robot_Vic_Sfx__Camera_Focus_2	
 	1736370598	Play__Robot_Vic_Sfx__Camera_Focus_1			\Default Work Unit\Missing_sfx\Camera\Play__Robot_Vic_Sfx__Camera_Focus_1	
+	1755199022	Stop__Robot_Vic_Sfx__Snowglobe_Wind_Loop_Fast_Stop			\Default Work Unit\Missing_sfx\Snowglobe\Stop__Robot_Vic_Sfx__Snowglobe_Wind_Loop_Fast_Stop	
+	1826579815	Play__Robot_Vic_Sfx__Snowglobe_Chime_Loop_Medium_Play			\Default Work Unit\Missing_sfx\Snowglobe\Play__Robot_Vic_Sfx__Snowglobe_Chime_Loop_Medium_Play	
+	2028807349	Play__Robot_Vic_Sfx__Snowglobe_Wind_Loop_Slow_Play			\Default Work Unit\Missing_sfx\Snowglobe\Play__Robot_Vic_Sfx__Snowglobe_Wind_Loop_Slow_Play	
 	2179926555	Play__Robot_Vic_Sfx__Power_On			\Default Work Unit\Missing_sfx\Power\Play__Robot_Vic_Sfx__Power_On	
+	2420361307	Stop__Robot_Vic_Sfx__Planning_Loop_Stop			\Default Work Unit\Missing_sfx\Exploring\Stop__Robot_Vic_Sfx__Planning_Loop_Stop	
+	2451007033	Play__Robot_Vic_Sfx__Snowglobe_Chime_Shakeoff_End			\Default Work Unit\Missing_sfx\Snowglobe\Play__Robot_Vic_Sfx__Snowglobe_Chime_Shakeoff_End	
 	2492717357	Play__Robot_Vo__Shared_Inhale_Breath_Medium			\Default Work Unit\Missing_sfx\Play__Robot_Vo__Shared_Inhale_Breath_Medium	
 	2602622212	Play__Robot_Vic_Sfx__Power_On_Short			\Default Work Unit\Missing_sfx\Power\Play__Robot_Vic_Sfx__Power_On_Short	
 	2655837071	Play__Robot_Vic_Sfx__Power_Off			\Default Work Unit\Missing_sfx\Power\Play__Robot_Vic_Sfx__Power_Off	
+	2675710110	Stop__Robot_Vic_Sfx__Snowglobe_Chime_Loop_Fast_Stop			\Default Work Unit\Missing_sfx\Snowglobe\Stop__Robot_Vic_Sfx__Snowglobe_Chime_Loop_Fast_Stop	
 	2894417895	Play__Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop			\Default Work Unit\Missing_sfx\Power\Play__Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop	
+	3179862666	Play__Robot_Vic_Sfx__Snowglobe_Chime_Loop_Fast_Play			\Default Work Unit\Missing_sfx\Snowglobe\Play__Robot_Vic_Sfx__Snowglobe_Chime_Loop_Fast_Play	
 	3327136896	Play__Robot_Vic_Sfx__Low_Light_Charging_Start			\Default Work Unit\Missing_sfx\LowLight\Play__Robot_Vic_Sfx__Low_Light_Charging_Start	
 	3616541293	Play__Robot_Vic_Sfx__Power_On_Crooked			\Default Work Unit\Missing_sfx\Power\Play__Robot_Vic_Sfx__Power_On_Crooked	
 	3640508870	Play__Robot_Vic_Sfx__Camera_Fire			\Default Work Unit\Missing_sfx\Camera\Play__Robot_Vic_Sfx__Camera_Fire	
 	3855902783	Play__Robot_Vo__Codelab_Firetruck			\Default Work Unit\Missing_sfx\Play__Robot_Vo__Codelab_Firetruck	
 	3905586496	Play__Robot_Sfx__Bored_Slot			\Default Work Unit\Missing_sfx\Bored\Play__Robot_Sfx__Bored_Slot	
 	4013569785	Play__Robot_Sfx__Bored_Brickout			\Default Work Unit\Missing_sfx\Bored\Play__Robot_Sfx__Bored_Brickout	
+	4117194074	Play__Robot_Vic_Sfx__Snowglobe_Chime_Shakeoff_Start			\Default Work Unit\Missing_sfx\Snowglobe\Play__Robot_Vic_Sfx__Snowglobe_Chime_Shakeoff_Start	
+	4193980929	Stop__Robot_Vic_Sfx__Snowglobe_Chime_Loop_Slow_Stop			\Default Work Unit\Missing_sfx\Snowglobe\Stop__Robot_Vic_Sfx__Snowglobe_Chime_Loop_Slow_Stop	
 	4217238598	Play__Robot_Vic_Sfx__Camera_Focus			\Default Work Unit\Missing_sfx\Camera\Play__Robot_Vic_Sfx__Camera_Focus	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
@@ -31,9 +46,11 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	264894955	Robot_Vic_Sfx__Power_On_Mismatched_Eyes_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_On_Mismatched_Eyes_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Power\Robot_Vic_Sfx__Power_On_Mismatched_Eyes_WM		6511
 	277236138	Robot_Vic_Sfx__Power_On_Short_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_On_Short_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Power\Robot_Vic_Sfx__Power_On_Short_WM		8396
 	370748333	Robot_Vic_Sfx__Power_On_Crooked_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_On_Crooked_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Power\Robot_Vic_Sfx__Power_On_Crooked_WM		13869
+	406187370	Robot_Vic_Sfx__Snowglobe_Chime_Shakeoff_Start_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Snowglobe_Chime_Shakeoff_Start_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Snowglobe\Robot_Vic_Sfx__Snowglobe_Chime_Shakeoff_Start_WM		258202
 	452607584	Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Power\Robot_Vic_Sfx__Scrn_Power_On_Crooked_Eye_Droop_WM		2932
 	470240706	Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Power\Robot_Vic_Sfx__Scrn_Power_On_Eye_Fix_WM		3703
 	521533998	Robot_Vic_Sfx__Power_On_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_On_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Power\Robot_Vic_Sfx__Power_On_WM		20176
+	581551155	Robot_Vic_Sfx__Snowglobe_Wind_Loop_Slow_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Snowglobe_Wind_Loop_Slow_WM_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Snowglobe\Robot_Vic_Sfx__Snowglobe_Wind_Loop_Slow_WM		519264
 	587862066	Robot_VO__Shared_Inhale_Take_Breath_Medium_05_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Shared_Inhale_Take_Breath_Medium_05_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Breath_medium_inhale\Robot_VO__Shared_Inhale_Take_Breath_Medium_05_WM		61078
 	612354249	Robot_VO__Shared_Inhale_Take_Breath_Medium_04_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Shared_Inhale_Take_Breath_Medium_04_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Breath_medium_inhale\Robot_VO__Shared_Inhale_Take_Breath_Medium_04_WM		59528
 	621609733	Robot_VO__Codelab_Firetruck_01_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Codelab_Firetruck_01_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Firetruck\Robot_VO__Codelab_Firetruck_01_WM		630980
@@ -41,13 +58,18 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	670442156	Robot_VO__Shared_Inhale_Take_Breath_Medium_01_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Shared_Inhale_Take_Breath_Medium_01_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Breath_medium_inhale\Robot_VO__Shared_Inhale_Take_Breath_Medium_01_WM		70464
 	697066089	Robot_VO__Codelab_Firetruck_03_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Codelab_Firetruck_03_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Firetruck\Robot_VO__Codelab_Firetruck_03_WM		623538
 	698113681	Robot_Vic_Sfx__Camera_Charge_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Camera_Charge_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Camera\Robot_Vic_Sfx__Camera_Charge_WM		36192
-	713912773	Robot_Vic_Sfx__Planning_Loop_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Planning_Loop_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Exploring\Robot_Vic_Sfx__Planning_Loop_WM		92152
+	709071018	Robot_Vic_Sfx__Snowglobe_Chime_Loop_Slow_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Snowglobe_Chime_Loop_Slow_WM_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Snowglobe\Robot_Vic_Sfx__Snowglobe_Chime_Loop_Slow_WM		260956
+	713912773	Robot_Vic_Sfx__Planning_Loop_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Planning_Loop_WM_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Exploring\Robot_Vic_Sfx__Planning_Loop_WM		92152
+	753031588	Robot_Vic_Sfx__Snowglobe_Chime_Loop_Medium_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Snowglobe_Chime_Loop_Medium_WM_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Snowglobe\Robot_Vic_Sfx__Snowglobe_Chime_Loop_Medium_WM		296864
 	764552563	Robot_VO__Shared_Inhale_Take_Breath_Medium_06_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Shared_Inhale_Take_Breath_Medium_06_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Breath_medium_inhale\Robot_VO__Shared_Inhale_Take_Breath_Medium_06_WM		53796
+	774827322	Robot_Vic_Sfx__Snowglobe_Chime_Loop_Fast_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Snowglobe_Chime_Loop_Fast_WM_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Snowglobe\Robot_Vic_Sfx__Snowglobe_Chime_Loop_Fast_WM		186864
 	801968429	Robot_VO__Shared_Inhale_Take_Breath_Medium_08_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_VO__Shared_Inhale_Take_Breath_Medium_08_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Breath_medium_inhale\Robot_VO__Shared_Inhale_Take_Breath_Medium_08_WM		63268
+	893825475	Robot_Vic_Sfx__Snowglobe_Chime_Shakeoff_End_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Snowglobe_Chime_Shakeoff_End_WM_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Snowglobe\Robot_Vic_Sfx__Snowglobe_Chime_Shakeoff_End_WM		214688
 	919930125	Robot_Vic_Sfx__Onboarding_Power_On_Eyes_Open_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Onboarding_Power_On_Eyes_Open_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Onboarding\Robot_Vic_Sfx__Onboarding_Power_On_Eyes_Open_WM		5857
 	942985136	Robot_SFX__Bored_Pendulum	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_SFX__Bored_Pendulum_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Bored\Robot_SFX__Bored_Pendulum		52482
 	977092656	Robot_Vic_Sfx__Onboarding_Power_On_Initialize_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Onboarding_Power_On_Initialize_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Onboarding\Robot_Vic_Sfx__Onboarding_Power_On_Initialize_WM		5854
 	984092153	Robot_SFX__Explorer_Night_Vision_On	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_SFX__Explorer_Night_Vision_On_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Exploring\Robot_SFX__Explorer_Night_Vision_On		9597
+	1012618777	Robot_Vic_Sfx__Snowglobe_Wind_Loop_Fast_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Snowglobe_Wind_Loop_Fast_WM_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Snowglobe\Robot_Vic_Sfx__Snowglobe_Wind_Loop_Fast_WM		380064
 	1039352055	Robot_Vic_Sfx__Power_Off_WM	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Robot_Vic_Sfx__Power_Off_WM_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\missing-sfx\Power\Robot_Vic_Sfx__Power_Off_WM		18962
 
 Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
