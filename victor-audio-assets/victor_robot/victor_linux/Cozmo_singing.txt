@@ -6,6 +6,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	1768031725	Play_Cozmo_100bpm			\Default Work Unit\Singing\Play_Cozmo_100bpm	
 	2001087969	Play__Robot_Vo__Sing_Getin_02_1			\Default Work Unit\Singing\Play__Robot_Vo__Sing_Getin_02_1	
 	2001087970	Play__Robot_Vo__Sing_Getin_02_2			\Default Work Unit\Singing\Play__Robot_Vo__Sing_Getin_02_2	
+	2189143819	Stop__Robot_Singing			\Default Work Unit\Singing\Stop__Robot_Singing	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	3969064	Moonlight Bay	D:\Wwise-projects\Cozmo-singing\ViccywareAudio\.cache\Linux\SFX\Moonlight Bay_B0918523.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cozmo-singing\Cozmo-120\Moonlight Bay		19383
