@@ -1,0 +1,14 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1823354903	Play__Robot_Vic_Sfx__Tangram_Start			\Default Work Unit\Play__Robot_Vic_Sfx__Tangram_Start	
+	1851207257	Play__Robot_Vic_Sfx__Binary_Eyes_Start_Glitch			\Default Work Unit\Play__Robot_Vic_Sfx__Binary_Eyes_Start_Glitch	
+	2641273550	Play__Robot_Vic_Sfx__Binary_Eyes_Outro			\Default Work Unit\Play__Robot_Vic_Sfx__Binary_Eyes_Outro	
+	3034653681	Play__Robot_Vic_Sfx__Binary_Eyes_Intro			\Default Work Unit\Play__Robot_Vic_Sfx__Binary_Eyes_Intro	
+	4294217316	Play__Robot_Vic_Sfx__Loose_Pixel_Start			\Default Work Unit\Play__Robot_Vic_Sfx__Loose_Pixel_Start	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	8279522	Binaryeyes_outro	D:\Wwise-projects\Performance-sounds\.cache\Linux\SFX\Binaryeyes_outro_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Binaryeyes_outro		149194
+	187699302	Loosepixel_start	D:\Wwise-projects\Performance-sounds\.cache\Linux\SFX\Loosepixel_start_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Loosepixel_start		1356060
+	447920622	Binaryeyes_start_glitch	D:\Wwise-projects\Performance-sounds\.cache\Linux\SFX\Binaryeyes_start_glitch_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Binaryeyes_start_glitch		467056
+	557325644	Binaryeyes_intro	D:\Wwise-projects\Performance-sounds\.cache\Linux\SFX\Binaryeyes_intro_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Binaryeyes_intro		824224
+	560394892	Tangram	D:\Wwise-projects\Performance-sounds\.cache\Linux\SFX\Tangram_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tangram		1916256
+
