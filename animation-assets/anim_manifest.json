@@ -5018,5 +5018,13 @@
   {
     "name": "layout_colormismatch_01",
     "length_ms": 21021
+  },
+  {
+    "name": "anim_launch_altwakeup_01",
+    "length_ms": 4851
+  },
+  {
+    "name": "anim_launch_firsttimewakeup",
+    "length_ms": 24684
   }
 ]
