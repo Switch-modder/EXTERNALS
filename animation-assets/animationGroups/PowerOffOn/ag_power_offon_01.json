@@ -1,30 +1,6 @@
 {
   "Animations": [
     {
-      "Name": "anim_power_offon_01",
-      "Weight": 1.0,
-      "CooldownTime_Sec": 0.0,
-      "Mood": "Default"
-    },
-    {
-      "Name": "anim_power_offon_02",
-      "Weight": 1.0,
-      "CooldownTime_Sec": 0.0,
-      "Mood": "Default"
-    },
-    {
-      "Name": "anim_power_offon_03",
-      "Weight": 1.0,
-      "CooldownTime_Sec": 0.0,
-      "Mood": "Default"
-    },
-    {
-      "Name": "anim_power_offon_04",
-      "Weight": 1.0,
-      "CooldownTime_Sec": 0.0,
-      "Mood": "Default"
-    },
-        {
       "Name": "anim_gotosleep_getout_01",
       "Weight": 1.0,
       "CooldownTime_Sec": 0.0,
